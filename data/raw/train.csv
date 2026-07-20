@@ -1,0 +1,1001 @@
+claim_id,customer_age,gender,region,claim_type,policy_tenure_years,annual_premium,claim_amount,previous_claims,documents_submitted,fraud_risk_score,customer_satisfaction_score,days_to_report_claim,hospital_network_flag,agent_experience_years,claim_channel,policy_active_flag,income_band,risk_segment,target_processed
+CLM000001,56,Male,North,Travel,8,19160.04,39928.88,1,0,0.1,8,20,1,8,Online,1,Medium,B,1
+CLM000002,20,Male,North,Life,12,97021.08,1518.93,1,1,0.183,10,21,0,12,Agent,0,Low,A,1
+CLM000003,66,Male,South,Auto,16,40586.24,26476.35,0,1,0.785,3,11,0,4,Branch,1,Low,B,1
+CLM000004,74,Female,South,Property,9,61146.94,2799.3,0,1,0.942,2,25,0,10,Branch,0,High,A,1
+CLM000005,19,Male,West,Travel,7,44575.1,34369.53,2,0,0.259,8,3,1,14,Agent,1,Medium,B,1
+CLM000006,71,Female,North,Health,18,19300.59,27562.16,4,1,0.57,9,29,1,5,Agent,1,Low,C,1
+CLM000007,62,Female,East,Health,13,83045.01,13931.78,0,0,0.165,9,6,0,8,Branch,0,Very High,A,1
+CLM000008,61,Female,North,Life,19,2393.9,15027.66,3,0,0.651,7,8,1,12,Agent,1,High,B,0
+CLM000009,50,Male,North,Auto,5,31787.25,3646.14,3,0,0.972,3,0,0,10,Agent,0,Low,B,0
+CLM000010,31,Male,West,Travel,15,52750.55,24942.88,0,1,0.108,7,16,1,13,Agent,1,High,B,1
+CLM000011,21,Female,East,Auto,13,25679.93,45424.54,1,0,0.077,3,21,1,2,Branch,1,High,A,1
+CLM000012,62,Male,South,Auto,12,11443.93,15133.87,0,1,0.883,10,22,1,9,Agent,0,Very High,C,1
+CLM000013,79,Male,East,Health,13,23565.58,5947.57,1,1,0.534,5,0,0,10,Online,1,Low,C,1
+CLM000014,41,Female,East,Health,9,32997.09,47174.03,1,1,0.962,7,1,0,1,Online,0,High,B,1
+CLM000015,66,Female,West,Property,2,27411.32,49888.15,1,0,0.345,1,18,1,2,Online,0,High,B,1
+CLM000016,61,Male,East,Life,4,55736.42,22665.27,0,1,0.238,6,23,0,4,Agent,1,Very High,C,1
+CLM000017,23,Male,South,Life,16,81826.76,20241.81,1,1,0.696,3,19,1,11,Agent,1,Low,A,1
+CLM000018,36,Male,South,Auto,7,81140.6,35701.9,0,0,0.398,7,17,1,1,Branch,0,Very High,A,1
+CLM000019,45,Female,West,Life,10,21698.09,36893.2,0,1,0.175,9,19,1,1,Agent,1,High,A,1
+CLM000020,18,Male,East,Travel,5,89824.36,5108.59,1,0,0.349,3,19,1,6,Online,1,High,D,1
+CLM000021,50,Male,West,Health,8,9329.86,32280.57,2,1,0.101,3,24,0,2,Branch,1,High,B,1
+CLM000022,63,Male,East,Life,16,69497.62,27662.32,1,1,0.237,5,15,1,8,Branch,1,Medium,B,1
+CLM000023,25,Female,South,Life,1,66103.68,42536.56,1,1,0.265,6,5,0,3,Branch,1,Low,C,1
+CLM000024,25,Female,North,Health,1,79686.32,31741.36,1,0,0.23,3,3,0,1,Agent,1,High,B,1
+CLM000025,34,Male,South,Life,14,47524.51,49730.25,1,0,0.953,1,13,0,3,Online,1,Low,D,0
+CLM000026,50,Male,South,Auto,1,31264,4229.64,0,1,0.373,10,21,1,3,Branch,1,Very High,B,1
+CLM000027,63,Female,West,Auto,2,61885.72,5310.24,0,1,0.877,1,7,0,9,Branch,0,Medium,C,1
+CLM000028,71,Female,East,Property,3,30065.59,18294.81,0,1,0.913,10,6,0,4,Branch,0,Very High,A,1
+CLM000029,37,Male,South,Health,16,70494.72,32673.21,0,0,0.338,2,1,1,7,Agent,0,Low,B,1
+CLM000030,39,Male,North,Health,17,16349.12,16743.56,0,1,0.303,5,0,1,5,Branch,1,Low,B,1
+CLM000031,61,Male,North,Travel,6,46269.25,48279.97,0,1,0.411,3,22,1,4,Online,1,Medium,C,1
+CLM000032,30,Female,South,Life,19,71744.92,48492.07,1,1,0.744,10,4,1,5,Online,1,Very High,B,1
+CLM000033,40,Female,West,Auto,1,69161.49,21701.57,0,0,0.442,6,15,0,8,Online,0,Low,D,1
+CLM000034,70,Female,West,Property,5,52152.93,32094.39,1,1,0.566,3,4,1,9,Agent,0,Low,A,1
+CLM000035,31,Male,West,Travel,14,10321.54,5044.05,1,1,0.098,5,6,1,1,Online,1,Medium,B,1
+CLM000036,47,Male,West,Auto,5,5757.83,32663.8,1,1,0.626,10,0,1,5,Agent,0,Medium,C,1
+CLM000037,21,Female,South,Health,2,94445.27,30984.63,0,1,0.636,4,23,1,2,Agent,0,Low,A,1
+CLM000038,77,Male,North,Auto,11,81309.21,6860.77,1,0,0.651,2,28,0,2,Online,0,Very High,D,0
+CLM000039,40,Female,South,Property,10,32578.59,4023.84,0,1,0.261,7,3,1,5,Online,1,Medium,D,1
+CLM000040,62,Male,West,Travel,4,4879.45,46864.08,0,0,0.569,3,16,0,4,Agent,1,High,D,1
+CLM000041,66,Female,South,Auto,5,34739.55,38932.44,0,0,0.751,9,2,0,14,Agent,0,Medium,A,0
+CLM000042,66,Male,East,Health,13,82819.29,25509.99,1,1,0.959,3,11,0,7,Online,1,Very High,B,1
+CLM000043,31,Male,North,Auto,15,48769.57,34000.11,0,0,0.293,9,19,0,5,Online,1,Low,B,1
+CLM000044,70,Female,North,Life,13,79172.2,39683.16,3,0,0.888,2,14,1,9,Online,1,Low,A,0
+CLM000045,75,Female,East,Travel,7,11011.14,31101.79,1,0,0.822,10,1,0,13,Online,0,High,B,0
+CLM000046,55,Female,West,Auto,1,38052.81,49338.66,1,0,0.986,4,3,1,12,Branch,0,High,D,0
+CLM000047,36,Female,North,Health,10,56282.02,38968.77,1,0,0.254,2,27,1,10,Agent,1,Low,A,1
+CLM000048,45,Male,East,Auto,7,82456.24,38476.15,3,0,0.083,1,5,0,6,Agent,1,Low,B,0
+CLM000049,61,Female,East,Auto,15,56044.5,48906.08,3,0,0.695,9,17,0,9,Agent,0,High,A,0
+CLM000050,31,Female,North,Auto,3,99587.31,15077.45,1,1,0.959,8,5,1,8,Agent,1,Low,A,1
+CLM000051,70,Male,East,Travel,8,19623.99,14230.37,0,1,0.266,5,8,1,11,Branch,1,Medium,C,1
+CLM000052,34,Male,East,Life,13,41709.47,14348.29,1,1,0.076,6,17,0,5,Agent,0,High,A,1
+CLM000053,42,Male,West,Travel,18,93340.12,21203.03,1,1,0.376,1,17,1,1,Online,0,Low,C,1
+CLM000054,38,Male,East,Auto,17,39905.96,37604.13,2,0,0.014,7,5,1,1,Branch,0,Very High,D,1
+CLM000055,48,Male,North,Health,5,91403.41,37620.58,2,0,0.451,1,18,0,13,Branch,1,Medium,A,1
+CLM000056,79,Female,South,Property,2,75942.91,43971.92,0,1,0.022,10,1,1,6,Online,0,Low,C,1
+CLM000057,76,Female,North,Travel,12,81822.19,15734.97,2,1,0.48,7,14,0,5,Online,1,Medium,A,1
+CLM000058,19,Female,West,Life,2,90411.95,40349.71,0,1,0.637,3,1,1,9,Branch,1,Medium,B,1
+CLM000059,50,Male,South,Property,10,40257.74,39290.82,2,1,0.842,1,27,1,8,Online,0,Medium,C,1
+CLM000060,51,Female,South,Travel,11,35393.93,31229.88,1,0,0.129,7,15,0,11,Online,1,Low,D,1
+CLM000061,33,Male,West,Auto,3,19006.13,32223.3,3,0,0.041,5,17,1,10,Online,0,Very High,C,0
+CLM000062,39,Female,South,Auto,9,12942.95,4890.78,0,1,0.364,10,12,0,9,Online,1,Medium,D,1
+CLM000063,74,Female,East,Health,11,69090.69,24316.7,1,1,0.868,8,16,0,13,Agent,1,High,D,1
+CLM000064,32,Female,North,Health,14,92480.13,27061.24,1,1,0.721,10,13,0,8,Agent,0,Medium,C,1
+CLM000065,24,Male,North,Life,11,84599.63,34514.69,1,1,0.354,3,14,1,9,Agent,0,High,C,1
+CLM000066,54,Female,North,Property,17,56832.54,9523.05,0,1,0.535,9,16,0,4,Branch,0,Medium,C,1
+CLM000067,21,Male,West,Health,18,65233.46,18077.66,0,0,0.737,8,7,0,12,Branch,0,Medium,C,0
+CLM000068,59,Female,North,Travel,2,36945.15,14546.91,0,0,0.987,5,24,0,5,Branch,1,High,A,0
+CLM000069,38,Female,East,Property,4,25349.82,8066.53,1,1,0.173,7,8,0,3,Agent,0,Very High,C,1
+CLM000070,48,Male,South,Property,6,98255.48,20814.64,2,1,0.975,8,5,0,14,Branch,0,Very High,B,1
+CLM000071,19,Female,West,Life,19,57589.66,28059.76,1,1,0.324,3,19,0,4,Online,0,High,C,1
+CLM000072,29,Male,West,Life,6,61451.38,6184.42,1,1,0.321,3,0,1,2,Branch,1,High,D,1
+CLM000073,27,Female,West,Auto,2,55343.28,27655.85,0,1,0.088,5,8,0,9,Branch,0,Very High,B,1
+CLM000074,32,Male,East,Life,17,41772.25,23843.02,2,0,0.731,9,1,1,3,Branch,0,High,A,0
+CLM000075,18,Male,East,Auto,8,57872.84,37185.47,4,0,0.665,10,29,1,9,Online,0,Medium,A,0
+CLM000076,59,Male,South,Property,7,81843.34,19926.03,3,0,0.503,9,16,0,7,Branch,1,Low,D,0
+CLM000077,31,Female,South,Property,7,23673.51,3797.65,0,1,0.333,3,7,1,4,Agent,0,Very High,B,1
+CLM000078,64,Male,North,Health,7,53812.65,31193.6,3,0,0.744,4,21,1,10,Agent,0,Medium,B,0
+CLM000079,76,Female,North,Life,13,11188.69,37854.45,0,1,0.457,4,23,0,13,Online,1,Low,D,1
+CLM000080,22,Male,West,Life,13,41486.56,24574.7,2,1,0.716,5,19,0,14,Branch,1,High,D,1
+CLM000081,57,Female,West,Auto,15,40684.29,29377.89,0,0,0.153,8,29,1,9,Branch,0,Very High,D,1
+CLM000082,64,Female,South,Travel,12,59703.33,36441.73,2,1,0.651,1,27,0,10,Branch,0,Very High,B,1
+CLM000083,71,Female,West,Health,9,11320.45,4327.39,2,0,0.166,4,21,0,9,Branch,0,High,B,1
+CLM000084,71,Female,East,Travel,15,59536.27,26182.48,0,0,0.206,9,20,1,9,Branch,0,Low,B,1
+CLM000085,69,Male,South,Property,2,92065.71,27101.08,1,0,0.452,3,21,1,9,Branch,0,Medium,B,1
+CLM000086,69,Male,West,Property,17,91569.74,21236.81,1,1,0.013,5,16,0,1,Agent,1,Very High,D,1
+CLM000087,58,Male,South,Property,8,42047.79,7858.81,1,0,0.397,3,26,1,3,Agent,1,Low,D,1
+CLM000088,49,Female,North,Travel,16,62872.62,23677.48,1,1,0.714,2,1,1,12,Agent,0,Very High,D,1
+CLM000089,67,Male,West,Auto,4,76770.27,25102.09,0,0,0.076,3,9,1,3,Agent,1,Very High,D,1
+CLM000090,51,Male,West,Travel,18,3513.25,20732.34,1,0,0.222,8,22,0,13,Branch,1,Very High,B,1
+CLM000091,71,Female,South,Life,19,57374.91,17293.93,1,1,0.805,8,13,1,8,Branch,1,Low,D,1
+CLM000092,60,Male,North,Property,14,94496.56,48151.14,0,1,0.087,10,6,0,7,Online,0,Very High,B,1
+CLM000093,36,Male,East,Property,18,87767.96,6577.46,2,1,0.825,3,22,0,12,Agent,1,Medium,D,1
+CLM000094,22,Female,East,Property,9,77609.62,17587.01,1,1,0.975,8,16,1,14,Agent,1,Very High,C,1
+CLM000095,76,Male,West,Health,17,80185.67,44780.34,1,0,0.542,9,6,0,6,Branch,1,Low,C,1
+CLM000096,60,Male,North,Health,13,14095.34,21374.34,3,1,0.577,6,1,0,5,Online,0,Medium,B,1
+CLM000097,55,Male,South,Auto,10,21435.71,41572.22,0,0,0.9,6,26,1,2,Online,1,Very High,A,0
+CLM000098,62,Male,West,Travel,13,18361.76,33419.32,1,1,0.519,2,27,1,11,Agent,0,Medium,A,1
+CLM000099,68,Male,East,Health,11,77327.61,4971.68,0,1,0.916,7,7,0,6,Branch,1,Low,C,1
+CLM000100,72,Female,West,Auto,5,93746.14,33351.72,1,0,0.262,3,19,0,1,Online,1,Medium,A,1
+CLM000101,76,Female,North,Life,2,34090.15,30043.72,0,0,0.352,1,24,0,11,Online,1,High,D,1
+CLM000102,59,Female,North,Life,18,8517.41,23254.23,2,1,0.103,5,11,0,11,Branch,0,High,A,1
+CLM000103,78,Female,West,Health,17,69365.46,39605.67,0,1,0.958,3,7,0,5,Agent,0,High,D,1
+CLM000104,40,Male,West,Auto,8,64085.93,36343.11,0,0,0.647,10,8,0,10,Branch,0,High,D,0
+CLM000105,49,Female,West,Life,7,92599.58,35425.97,0,0,0.731,3,15,1,2,Agent,0,High,B,0
+CLM000106,40,Male,East,Property,7,74761.39,39869.42,1,0,0.037,8,2,1,12,Online,0,Very High,D,1
+CLM000107,51,Female,North,Property,12,53496.25,44307.42,2,1,0.319,2,0,1,13,Agent,1,Medium,D,1
+CLM000108,61,Male,East,Travel,10,3415.68,12031.49,1,0,0.529,3,26,0,14,Agent,1,High,C,1
+CLM000109,46,Male,South,Health,12,40791.16,38475.82,4,0,0.523,1,29,0,3,Online,0,Very High,D,0
+CLM000110,31,Male,West,Property,18,85429.36,15201.64,0,0,0.277,5,13,0,9,Agent,0,Low,A,1
+CLM000111,66,Female,South,Property,5,13319.32,19885.69,1,1,0.982,8,10,1,13,Branch,1,Medium,C,1
+CLM000112,42,Female,West,Life,8,7433.65,37295.96,3,1,0.047,9,25,0,1,Branch,1,High,D,1
+CLM000113,20,Female,East,Property,15,80276.2,41397.18,0,0,0.928,10,16,0,11,Agent,1,High,C,0
+CLM000114,52,Male,North,Auto,3,69906.04,38032.8,1,1,0.748,9,8,1,14,Agent,0,Low,B,1
+CLM000115,51,Male,South,Property,9,39725.81,23142.89,0,1,0.862,9,14,1,9,Agent,0,High,A,1
+CLM000116,28,Male,East,Auto,15,41436.87,4805.84,0,0,0.723,10,17,1,5,Agent,1,Medium,C,0
+CLM000117,65,Male,South,Travel,17,8536.96,34321.31,0,0,0.481,3,25,0,8,Online,1,Low,C,1
+CLM000118,51,Male,West,Health,1,86584.8,27417.06,4,0,0.334,9,20,1,4,Online,0,High,D,0
+CLM000119,44,Female,West,Travel,11,16701.91,37759.47,3,1,0.335,7,17,1,2,Online,1,Low,C,1
+CLM000120,30,Female,North,Health,13,1632.2,25619.65,3,1,0.009,3,15,1,3,Agent,1,Very High,A,1
+CLM000121,24,Male,South,Auto,15,96336.21,27292.7,1,1,0.174,4,17,1,11,Branch,1,High,A,1
+CLM000122,34,Male,North,Life,1,71148.63,38663.72,0,1,0.046,2,13,1,13,Agent,1,Medium,D,1
+CLM000123,53,Female,West,Travel,12,59845.19,32554.9,0,0,0.822,3,10,1,7,Branch,1,Very High,C,0
+CLM000124,51,Male,North,Auto,17,99715.33,14044.52,0,0,0.164,7,28,0,11,Branch,1,Medium,C,1
+CLM000125,49,Male,South,Auto,11,68369.43,4577.86,0,0,0.963,8,27,0,5,Online,0,Low,B,0
+CLM000126,33,Male,West,Property,19,96487.53,42939.32,0,0,0.312,10,27,1,2,Branch,0,Very High,C,1
+CLM000127,52,Male,South,Travel,12,65515.02,2041.14,1,0,0.968,9,16,0,5,Branch,1,High,D,0
+CLM000128,32,Male,South,Travel,7,53505.08,22957.83,1,0,0.912,10,2,1,14,Branch,0,Medium,D,0
+CLM000129,42,Male,South,Auto,12,60234.4,560.98,0,0,0.201,9,27,0,6,Agent,1,Medium,A,1
+CLM000130,70,Male,South,Travel,11,79958.35,13815.17,1,0,0.072,2,13,0,6,Branch,1,High,D,1
+CLM000131,28,Male,West,Travel,6,86152.12,34901.6,3,1,0.987,6,21,1,4,Branch,0,Very High,C,0
+CLM000132,27,Female,West,Health,1,94182.51,38902.33,1,0,0.083,4,25,1,7,Branch,1,Low,D,1
+CLM000133,55,Female,East,Health,18,69257.03,28593.27,1,1,0.105,3,26,1,9,Online,1,Medium,A,1
+CLM000134,26,Female,North,Auto,18,54588.34,3072.58,4,0,0.08,4,15,1,6,Agent,1,Very High,C,0
+CLM000135,39,Male,West,Property,9,64714.19,22889.76,0,1,0.082,6,11,0,12,Online,0,Very High,C,1
+CLM000136,42,Female,East,Travel,14,22702.18,43653.29,0,1,0.872,5,22,1,3,Branch,1,Low,B,1
+CLM000137,35,Female,West,Property,5,65673.04,1532.63,3,0,0.221,6,14,0,7,Agent,1,Very High,A,0
+CLM000138,66,Female,North,Travel,5,72989.74,43479.49,0,1,0.768,8,17,0,3,Agent,1,High,A,1
+CLM000139,58,Female,North,Life,4,72800.51,22211.46,2,1,0.992,10,21,0,12,Agent,0,Very High,A,1
+CLM000140,62,Male,East,Life,1,83763.81,23557.73,0,1,0.405,7,9,1,14,Agent,1,Very High,A,1
+CLM000141,19,Male,East,Life,13,85584.12,9458.36,1,0,0.445,8,6,0,4,Online,1,High,D,1
+CLM000142,56,Female,North,Health,2,39717.07,8594.43,1,0,0.773,8,3,0,7,Branch,0,Medium,B,0
+CLM000143,48,Female,North,Life,14,8276.18,12184.5,0,0,0.337,9,0,0,4,Agent,1,Low,B,1
+CLM000144,60,Male,West,Health,11,26000.25,47454.88,2,0,0.705,8,27,0,6,Branch,1,Medium,D,0
+CLM000145,76,Female,East,Property,2,27705.21,6040.02,0,0,0.937,1,22,0,6,Agent,0,Very High,B,0
+CLM000146,70,Female,South,Property,19,11227.59,4883.5,0,1,0.397,2,23,0,11,Online,1,Medium,A,1
+CLM000147,51,Female,West,Travel,7,97336.68,16494.97,1,1,0.343,6,19,0,14,Branch,0,High,A,1
+CLM000148,69,Female,East,Life,8,20983.49,35381.7,1,1,0.156,6,4,0,6,Branch,0,Very High,B,1
+CLM000149,51,Female,West,Travel,11,97884.5,33250.8,1,0,0.831,8,16,1,11,Agent,1,Very High,D,0
+CLM000150,42,Female,South,Auto,19,67974.83,34631.57,3,1,0.658,2,5,0,9,Branch,0,Very High,B,0
+CLM000151,58,Female,North,Travel,13,75490.35,49670.18,0,0,0.879,6,13,1,6,Branch,0,Very High,D,0
+CLM000152,23,Female,South,Property,19,87911.22,45118.09,1,1,0.544,9,20,0,1,Online,1,Medium,C,1
+CLM000153,75,Male,West,Health,1,69851.25,20110.55,0,0,0.444,6,25,0,3,Branch,1,Very High,A,1
+CLM000154,63,Male,West,Auto,9,76175.09,32307.51,1,1,0.847,5,28,1,9,Online,1,Very High,C,1
+CLM000155,22,Female,West,Health,12,58437.06,20241.73,1,0,0.813,2,11,0,11,Agent,0,Very High,C,0
+CLM000156,38,Female,North,Life,15,1748.72,10191.01,0,0,0.243,3,14,1,5,Online,0,Medium,C,1
+CLM000157,39,Male,North,Property,4,17466.83,10130.64,0,1,0.67,3,7,1,10,Online,1,Low,D,1
+CLM000158,47,Male,East,Health,4,27989.78,35949.46,2,1,0.181,7,23,0,10,Online,0,High,A,1
+CLM000159,59,Female,East,Travel,7,43028.22,45928.75,1,0,0.633,7,21,1,5,Agent,1,Medium,B,0
+CLM000160,45,Female,South,Auto,10,21992.44,11789.95,0,0,0.84,8,23,1,1,Online,1,Low,D,0
+CLM000161,44,Male,West,Life,19,28205.8,39136.01,3,1,0.452,2,4,0,1,Online,0,Medium,D,1
+CLM000162,61,Female,West,Travel,17,22457.24,43208.46,0,0,0.642,7,10,1,9,Branch,1,Low,D,0
+CLM000163,30,Female,South,Health,2,50179.92,29926.58,0,0,0.695,3,9,1,13,Agent,0,High,C,0
+CLM000164,58,Female,East,Property,14,99134.34,34775.59,0,1,0.337,7,12,1,4,Agent,1,Medium,D,1
+CLM000165,54,Female,North,Auto,8,19994.87,44762.45,0,1,0.355,4,12,0,12,Agent,1,High,C,1
+CLM000166,77,Female,North,Property,8,24137.5,40117.65,2,0,0.457,6,5,1,7,Agent,1,Low,A,1
+CLM000167,19,Female,East,Auto,8,99552.57,18465.74,1,0,0.175,9,22,1,10,Branch,1,High,B,1
+CLM000168,47,Male,East,Auto,17,75860.17,22793.36,0,1,0.795,7,27,0,8,Branch,1,Low,A,1
+CLM000169,22,Female,West,Health,1,77091.38,36990.42,2,1,0.788,1,20,1,12,Branch,1,High,B,1
+CLM000170,69,Male,East,Travel,1,4579.88,35582.86,0,0,0.36,5,1,0,9,Branch,0,Very High,B,1
+CLM000171,18,Male,South,Life,4,40301.17,15623.45,1,1,0.497,6,27,0,4,Agent,1,High,B,1
+CLM000172,29,Female,West,Travel,18,12520.27,46564.46,2,1,0.806,7,19,1,9,Branch,0,High,A,1
+CLM000173,38,Female,North,Auto,3,16225.32,1633.24,0,1,0.573,10,24,1,9,Online,0,Very High,C,1
+CLM000174,71,Male,West,Health,1,61030.72,16029.52,2,0,0.953,6,24,0,5,Agent,1,Low,D,0
+CLM000175,25,Female,East,Life,15,51104.65,24172.58,3,0,0.936,4,17,0,12,Agent,0,High,A,0
+CLM000176,23,Male,West,Health,2,2751.09,516.46,1,0,0.564,2,9,0,2,Branch,1,High,B,1
+CLM000177,28,Male,West,Travel,15,62330.28,37835.55,1,0,0.075,3,6,1,12,Branch,0,Very High,A,1
+CLM000178,21,Male,North,Health,5,23660.57,31842.89,1,1,0.656,6,6,1,5,Agent,1,Very High,A,1
+CLM000179,79,Male,South,Life,14,36069.39,32876.75,0,0,0.769,7,1,1,11,Online,0,Very High,D,0
+CLM000180,71,Female,West,Life,7,58632.67,39621.72,1,1,0.241,5,20,1,5,Branch,0,Medium,D,1
+CLM000181,49,Male,West,Life,11,11863.88,24648.78,2,1,0.127,2,19,1,12,Agent,1,High,A,1
+CLM000182,57,Female,South,Property,6,61794.05,40628.95,2,1,0.787,9,8,0,2,Agent,1,Medium,C,1
+CLM000183,65,Male,East,Life,8,84246.29,13106.2,1,1,0.386,6,7,0,1,Branch,1,High,A,1
+CLM000184,40,Female,East,Auto,12,15866.73,26161.2,1,0,0.038,7,10,0,13,Online,0,Very High,A,1
+CLM000185,41,Male,North,Health,8,4521.52,5715.69,0,1,0.992,4,14,0,7,Agent,0,Medium,B,1
+CLM000186,45,Male,North,Life,5,41800.96,18064.65,2,1,0.083,1,7,1,8,Online,0,Medium,B,1
+CLM000187,26,Female,South,Life,17,21363.04,19406.01,0,1,0.775,9,24,1,7,Online,1,High,B,1
+CLM000188,67,Male,East,Auto,8,13398.12,16449.67,0,0,0.582,2,10,1,1,Online,1,Low,B,1
+CLM000189,35,Male,East,Auto,14,37844.54,11618.47,1,1,0.274,4,20,1,3,Branch,1,High,A,1
+CLM000190,66,Male,East,Health,7,29304.77,32467.64,2,0,0.221,8,13,1,14,Online,0,Very High,A,1
+CLM000191,40,Male,West,Property,11,18565.45,32980.01,0,1,0.043,2,1,0,5,Agent,0,Low,D,1
+CLM000192,69,Male,North,Life,19,22137.63,40980.37,0,1,0.733,5,28,0,8,Agent,0,Very High,A,1
+CLM000193,71,Male,West,Property,7,69199.64,28468.59,2,1,0.462,8,0,1,5,Agent,0,Low,D,1
+CLM000194,18,Female,North,Health,10,20201.43,14256.15,1,0,0.733,7,26,0,2,Agent,0,Medium,A,0
+CLM000195,65,Male,East,Life,10,55868.42,39297.69,1,0,0.011,9,1,0,9,Branch,1,High,D,1
+CLM000196,28,Female,West,Life,6,84355.07,37935.1,2,0,0.643,10,23,1,3,Branch,1,Very High,A,0
+CLM000197,54,Male,South,Property,7,1186.11,33320.58,0,1,0.167,9,12,1,1,Agent,0,Medium,D,1
+CLM000198,24,Female,West,Property,5,64590.23,24308.16,1,1,0.053,8,1,1,2,Agent,0,Low,C,1
+CLM000199,48,Female,East,Travel,14,32888.69,1635.17,0,1,0.334,10,5,0,4,Agent,1,Medium,D,1
+CLM000200,36,Male,North,Health,17,15597.8,22289.85,1,1,0.063,9,27,1,13,Online,0,Very High,A,1
+CLM000201,34,Female,South,Life,15,50120.47,32058.89,0,1,0.991,7,8,1,5,Online,0,High,A,1
+CLM000202,69,Female,East,Property,13,34116.62,18430.65,2,1,0.518,3,20,0,10,Branch,0,Low,C,1
+CLM000203,63,Female,East,Health,5,38314.5,11664.3,1,1,0.483,6,25,1,14,Branch,0,Medium,B,1
+CLM000204,56,Female,South,Health,4,44248.22,25074.83,1,1,0.131,9,19,1,9,Agent,1,High,A,1
+CLM000205,38,Female,South,Property,7,6648.42,3913.42,0,1,0.787,10,15,1,6,Branch,0,Low,C,1
+CLM000206,59,Male,South,Travel,9,27545.76,42317.08,1,1,0.62,9,20,1,2,Branch,0,High,C,1
+CLM000207,44,Female,North,Auto,18,90083.5,17693.49,2,1,0.937,10,25,1,8,Online,1,Very High,A,1
+CLM000208,31,Male,North,Health,18,98148.41,36675.64,0,0,0.198,8,16,0,3,Branch,0,Medium,D,1
+CLM000209,38,Female,West,Travel,9,35601.13,30622.1,0,0,0.225,10,24,0,6,Online,0,High,C,1
+CLM000210,50,Female,North,Health,2,12362.12,26407.85,1,0,0.708,1,1,1,14,Online,1,Medium,A,0
+CLM000211,51,Male,East,Property,2,17411.68,24492.47,1,1,0.462,3,28,0,6,Branch,1,Very High,D,1
+CLM000212,41,Female,West,Travel,10,12081.66,39455.02,3,0,0.165,4,13,1,6,Online,0,Low,C,0
+CLM000213,73,Female,North,Travel,14,66303.31,6749.56,0,0,0.56,10,16,0,2,Branch,0,Very High,C,1
+CLM000214,73,Male,South,Property,1,91012.8,23464.6,1,0,0.657,9,26,1,11,Branch,0,Low,A,0
+CLM000215,22,Male,East,Auto,10,21172.88,48241.59,0,1,0.793,4,4,0,8,Online,0,High,C,1
+CLM000216,26,Female,North,Health,8,91593.92,20100.54,1,1,0.793,7,15,0,13,Agent,0,Very High,B,1
+CLM000217,44,Male,West,Life,1,98368.63,14206.77,1,1,0.894,5,3,1,6,Branch,1,Medium,C,1
+CLM000218,71,Male,West,Health,11,12646.75,42915.26,2,0,0.122,2,3,1,6,Agent,1,Low,D,1
+CLM000219,48,Male,East,Life,5,13852.82,32978.63,1,0,0.823,10,29,1,5,Agent,0,Very High,D,0
+CLM000220,78,Female,North,Property,6,30352.49,17173.6,2,0,0.901,9,20,1,2,Online,1,High,B,0
+CLM000221,20,Female,East,Health,16,53018.06,44051.18,2,0,0.42,2,8,0,2,Agent,1,Low,B,1
+CLM000222,28,Female,West,Life,17,62471.93,32731.81,3,1,0.739,2,1,0,8,Online,1,Very High,C,0
+CLM000223,45,Female,South,Travel,1,17546.07,34242.64,1,0,0.34,10,24,0,6,Online,0,Low,A,1
+CLM000224,38,Male,East,Travel,14,31090.69,2142.87,2,0,0.788,2,18,0,6,Branch,0,Medium,B,0
+CLM000225,44,Male,South,Travel,14,11987.96,28241.81,2,0,0.413,4,16,0,8,Online,1,Medium,B,1
+CLM000226,31,Male,South,Property,16,28723.7,45944.79,4,0,0.963,9,26,1,7,Agent,0,Very High,C,0
+CLM000227,77,Female,South,Property,6,45534.38,31936.91,0,1,0.097,9,0,1,4,Online,0,Very High,D,1
+CLM000228,31,Female,East,Life,14,30426.54,30118.7,1,1,0.877,2,8,0,14,Online,1,High,A,1
+CLM000229,58,Female,West,Property,16,62991.44,49456.9,0,0,0.285,3,10,1,14,Online,1,Low,C,1
+CLM000230,38,Female,North,Health,5,7300.45,26311.56,1,0,0.525,9,3,0,1,Branch,1,Very High,D,1
+CLM000231,41,Male,West,Life,15,3489.05,47813.31,0,1,0.435,9,18,1,4,Branch,0,Medium,C,1
+CLM000232,39,Female,South,Health,19,63499.45,30550.93,0,0,0.132,4,21,1,13,Agent,0,Low,C,1
+CLM000233,39,Male,South,Health,9,27885.31,13502.44,1,1,0.891,2,16,0,12,Online,1,Very High,D,1
+CLM000234,43,Male,East,Travel,10,24646.81,45415.32,1,0,0.623,3,15,0,4,Agent,1,Very High,D,0
+CLM000235,66,Female,North,Travel,14,1545.07,26070.35,0,1,0.037,1,25,0,5,Online,0,High,A,1
+CLM000236,66,Female,East,Travel,9,40282.89,11316.24,1,0,0.818,5,18,0,7,Branch,0,Medium,C,0
+CLM000237,58,Male,South,Travel,14,67866.6,1968.58,1,1,0.165,8,11,0,12,Agent,1,Very High,B,1
+CLM000238,25,Male,East,Life,16,26559.15,33711.68,0,1,0.955,10,4,1,9,Agent,0,High,B,1
+CLM000239,63,Male,West,Life,17,26503.11,3031.2,2,1,0.8,4,17,0,3,Agent,0,Low,C,1
+CLM000240,45,Female,South,Auto,12,90131.81,27704.39,0,0,0.75,2,28,0,10,Agent,1,Very High,B,0
+CLM000241,68,Male,South,Auto,18,2002.99,29886.21,0,0,0.613,3,19,1,11,Online,0,High,A,0
+CLM000242,19,Male,East,Life,8,83072.76,26734.58,2,0,0.486,10,4,0,14,Online,0,Very High,B,1
+CLM000243,48,Male,South,Life,6,81855.6,23597.09,2,0,0.078,9,20,1,10,Online,1,Very High,A,1
+CLM000244,77,Female,East,Auto,3,39039.72,11700.82,2,1,0.89,10,26,0,6,Agent,1,High,D,1
+CLM000245,77,Male,South,Travel,5,38080.74,34576.05,1,0,0.346,4,18,0,10,Agent,1,Medium,C,1
+CLM000246,35,Female,West,Travel,11,34719.81,32026.66,0,1,0.847,8,1,1,4,Agent,1,Very High,B,1
+CLM000247,29,Male,South,Travel,17,11420.66,28204.58,0,0,0.228,8,26,0,11,Online,0,Very High,C,1
+CLM000248,21,Male,North,Travel,11,21677.54,5415.46,1,1,0.313,5,29,1,5,Online,1,Medium,C,1
+CLM000249,78,Female,South,Property,3,38105.55,18834.65,4,0,0.152,1,12,1,6,Online,1,Medium,D,0
+CLM000250,22,Female,North,Property,2,55817.44,8130.18,0,0,0.834,3,2,1,2,Online,1,Very High,C,0
+CLM000251,62,Male,West,Health,14,6707.11,10133.88,1,0,0.558,3,0,1,8,Agent,0,Medium,A,1
+CLM000252,52,Female,North,Travel,4,81858.94,7950.81,2,1,0.326,8,25,0,5,Online,0,Medium,A,1
+CLM000253,38,Female,West,Auto,5,85403.22,7825.22,1,1,0.593,2,10,1,13,Branch,0,Very High,D,1
+CLM000254,29,Male,North,Health,7,74840.14,2380.09,0,0,0.681,9,13,1,12,Agent,1,Medium,B,0
+CLM000255,34,Female,North,Travel,12,51777.34,47481.05,2,1,0.491,1,29,1,7,Online,0,High,A,1
+CLM000256,44,Male,South,Property,18,49740.22,25808.14,2,1,0.828,4,6,0,3,Branch,1,Very High,A,1
+CLM000257,26,Male,West,Life,17,1313.62,3443.84,2,1,0.256,5,12,0,14,Branch,0,Low,B,1
+CLM000258,48,Male,East,Property,11,76497.04,36834.47,2,0,0.359,2,8,1,3,Online,1,High,B,1
+CLM000259,47,Female,South,Health,19,1877.47,47893.68,0,1,0.828,7,29,0,3,Branch,0,High,A,1
+CLM000260,53,Male,West,Property,5,74307.14,41790.16,0,1,0.769,9,0,1,3,Online,1,Very High,C,1
+CLM000261,57,Female,North,Travel,14,72591.8,20255.46,1,1,0.306,8,2,1,12,Online,0,High,B,1
+CLM000262,62,Male,East,Auto,19,1602.79,35038.94,1,1,0.113,2,9,1,6,Online,1,High,C,1
+CLM000263,19,Male,West,Property,15,40884.45,4108.64,0,1,0.281,8,22,1,8,Branch,1,Medium,B,1
+CLM000264,72,Male,West,Health,7,32828.07,45352.49,0,0,0.219,5,18,0,3,Agent,0,Medium,A,1
+CLM000265,42,Male,North,Travel,10,88977.25,6584.57,1,1,0.637,2,13,1,12,Agent,1,Very High,D,1
+CLM000266,69,Female,North,Auto,4,29707.04,15508.11,0,0,0.721,7,13,1,2,Agent,1,High,A,0
+CLM000267,51,Female,East,Health,17,27883.16,36225.22,0,0,0.189,10,17,1,6,Agent,1,Very High,D,1
+CLM000268,34,Female,West,Travel,9,84094.51,3603.14,0,1,0.741,9,0,0,3,Online,0,Very High,D,1
+CLM000269,44,Female,East,Health,18,57609.11,43394.13,2,1,0.936,3,4,0,10,Branch,0,Very High,A,1
+CLM000270,43,Female,South,Life,10,93086.93,28449.14,0,0,0.713,5,0,1,12,Agent,0,High,A,0
+CLM000271,34,Male,East,Travel,9,94454.25,33967.36,0,0,0.634,5,9,0,5,Agent,1,Very High,D,0
+CLM000272,65,Male,West,Travel,3,86716.2,19563.45,1,1,0.771,9,27,0,9,Agent,0,Low,C,1
+CLM000273,35,Female,East,Health,2,42163.95,27827.43,0,0,0.87,6,23,1,1,Online,1,Very High,C,0
+CLM000274,62,Male,North,Auto,9,4557.93,37824.14,0,0,0.126,3,27,1,12,Branch,1,Very High,A,1
+CLM000275,38,Male,North,Auto,1,47347.26,34268.6,1,0,0.667,1,21,1,10,Branch,0,High,C,0
+CLM000276,61,Female,North,Life,13,69116.4,5443.41,1,1,0.709,10,2,0,3,Online,0,Very High,C,1
+CLM000277,55,Female,West,Health,11,59918.04,26781.42,1,1,0.678,4,22,1,1,Branch,1,Medium,C,1
+CLM000278,45,Female,East,Travel,10,13429.47,48812.68,2,1,0.436,5,24,0,7,Online,1,Low,A,1
+CLM000279,24,Male,West,Life,16,37802.19,17730.73,2,1,0.847,9,10,1,1,Agent,0,Low,C,1
+CLM000280,42,Female,West,Auto,4,21502.4,14911.64,3,0,0.747,7,11,1,4,Branch,1,High,D,0
+CLM000281,57,Male,North,Auto,18,78733.76,47164.85,1,1,0.366,10,11,0,10,Online,0,Very High,B,1
+CLM000282,43,Female,North,Travel,19,32199.56,42436.12,0,0,0.527,4,14,0,12,Branch,0,High,A,1
+CLM000283,60,Female,East,Auto,6,94792.13,40588.08,0,1,0.539,9,13,1,10,Branch,0,Medium,C,1
+CLM000284,67,Male,North,Auto,11,63461.26,888.16,0,0,0.958,2,14,1,13,Online,1,Medium,D,0
+CLM000285,38,Male,East,Life,18,62469.95,48134.36,1,0,0.044,6,28,1,12,Branch,0,High,D,1
+CLM000286,60,Male,North,Health,11,14562.91,33880.27,2,1,0.109,4,2,1,8,Agent,1,Very High,D,1
+CLM000287,76,Female,West,Life,11,57384.44,49066.61,2,1,0.622,10,5,1,12,Online,0,Medium,C,1
+CLM000288,46,Male,West,Property,11,94426.46,45440.99,2,1,0.162,8,29,1,4,Branch,0,High,B,1
+CLM000289,47,Male,South,Property,18,66993.45,32210.45,2,1,0.784,10,10,0,8,Branch,1,Low,A,1
+CLM000290,77,Male,East,Auto,16,51953.68,9305.46,0,0,0.246,3,11,0,13,Online,1,High,B,1
+CLM000291,53,Female,East,Health,2,40385.83,14799.8,1,0,0.482,3,19,1,5,Agent,1,Medium,C,1
+CLM000292,52,Male,East,Life,14,44992.17,3356.29,2,0,0.359,4,0,1,1,Branch,1,Low,B,1
+CLM000293,43,Male,South,Life,10,11078.56,45952.83,2,0,0.175,2,23,0,9,Branch,0,High,A,1
+CLM000294,21,Male,North,Health,19,44224.8,29290.3,1,0,0.282,7,14,0,7,Branch,1,High,B,1
+CLM000295,57,Female,North,Property,10,76547.73,20346.62,2,1,0.186,3,15,0,14,Branch,1,High,C,1
+CLM000296,63,Female,South,Property,15,7831.75,4022.34,2,0,0.836,4,1,0,8,Agent,1,Very High,A,0
+CLM000297,59,Male,South,Property,17,52050.28,41327,1,0,0.931,5,29,0,9,Agent,0,Very High,D,0
+CLM000298,74,Male,East,Life,10,36855.45,3535.88,0,0,0.304,4,2,1,3,Online,1,High,C,1
+CLM000299,64,Female,West,Auto,19,31698.37,9960.38,3,1,0.896,5,24,1,11,Agent,0,Low,C,0
+CLM000300,31,Male,West,Health,15,34359.51,6705.15,3,0,0.15,7,9,1,11,Agent,1,Very High,B,0
+CLM000301,79,Male,North,Health,10,95269.96,29396.75,1,1,0.297,9,26,0,5,Agent,1,Very High,D,1
+CLM000302,66,Male,South,Travel,4,51380.17,25935.8,2,0,0.714,6,0,0,7,Branch,1,High,B,0
+CLM000303,56,Male,West,Life,2,35115.8,42598.34,1,0,0.213,4,19,0,3,Agent,0,Very High,C,1
+CLM000304,66,Female,North,Health,1,56645.21,36489.31,0,1,0.163,4,17,0,3,Agent,0,Very High,B,1
+CLM000305,69,Male,East,Health,1,79957.19,6656.95,2,0,0.501,6,24,0,1,Online,1,High,D,1
+CLM000306,36,Female,East,Life,16,31574.61,21765,1,1,0.714,3,11,1,11,Online,0,Low,D,1
+CLM000307,27,Male,East,Travel,12,68038.09,40535.1,0,1,0.816,9,4,1,7,Agent,1,High,A,1
+CLM000308,73,Female,North,Life,19,85217.35,46797.21,1,1,0.052,1,11,1,5,Branch,0,Medium,C,1
+CLM000309,22,Female,North,Property,1,62507.95,17971.45,2,1,0.784,2,15,0,3,Branch,1,Very High,C,1
+CLM000310,22,Male,South,Health,7,21334.74,4069.5,3,1,0.781,6,28,1,4,Agent,0,High,C,0
+CLM000311,41,Female,South,Auto,8,43769.87,14177.8,0,0,0.977,2,5,1,5,Branch,1,Very High,A,0
+CLM000312,79,Male,North,Auto,9,19791.71,27997.02,0,0,0.398,3,9,1,9,Branch,0,High,D,1
+CLM000313,33,Female,South,Life,6,55411.02,31719.67,2,0,0.926,4,26,0,6,Branch,1,Medium,C,0
+CLM000314,61,Female,South,Property,2,10117.43,23172.1,0,1,0.704,6,14,0,10,Branch,0,High,C,1
+CLM000315,50,Female,East,Property,4,58772.14,33766.77,0,1,0.866,1,18,1,9,Online,1,High,C,1
+CLM000316,70,Male,West,Life,16,73916.99,47264.44,0,1,0.588,2,29,0,13,Agent,1,Low,D,1
+CLM000317,18,Female,South,Health,17,58709.68,1262.05,2,0,0.84,10,5,1,6,Branch,0,Very High,B,0
+CLM000318,27,Female,South,Auto,3,43924.7,911.84,1,0,0.434,4,28,0,9,Online,0,Low,B,1
+CLM000319,43,Male,West,Travel,11,23688.02,49814.98,1,1,0.204,7,16,0,7,Agent,0,Medium,D,1
+CLM000320,49,Male,West,Life,1,3920.9,45620.3,0,0,0.077,2,7,0,13,Branch,1,Very High,A,1
+CLM000321,20,Male,South,Life,16,60112.48,11159.55,0,1,0.333,2,5,0,3,Agent,1,Very High,D,1
+CLM000322,76,Female,South,Property,3,78890.18,14523.59,2,1,0.291,10,16,0,13,Branch,1,High,C,1
+CLM000323,60,Female,West,Auto,1,27616.5,27147.43,3,0,0.874,6,25,1,4,Online,1,High,C,0
+CLM000324,77,Male,East,Travel,18,78614.75,7647.19,1,0,0.599,4,21,1,7,Branch,0,Medium,D,1
+CLM000325,60,Female,West,Travel,15,92783.95,24809.24,0,0,0.41,2,24,0,6,Branch,1,High,C,1
+CLM000326,38,Male,West,Property,10,7978.7,8442.9,4,1,0.289,4,11,1,11,Agent,1,Medium,C,1
+CLM000327,59,Male,East,Health,13,36331.71,27009.91,0,1,0.809,5,3,1,10,Agent,0,Very High,C,1
+CLM000328,59,Female,South,Auto,17,23946.58,13939.19,0,0,0.078,3,6,1,9,Branch,1,High,C,1
+CLM000329,22,Male,North,Life,16,83952.93,34008.57,1,1,0.296,5,22,0,14,Branch,1,Medium,B,1
+CLM000330,64,Male,South,Auto,8,43531.25,24724.13,2,1,0.161,1,29,0,14,Online,0,Low,D,1
+CLM000331,49,Female,West,Health,10,24912.15,44597.35,2,1,0.608,7,22,0,6,Branch,0,Medium,A,1
+CLM000332,36,Male,West,Property,8,75189.65,17115.85,2,0,0.541,10,7,0,10,Agent,0,Medium,C,1
+CLM000333,46,Female,East,Health,1,41783.85,25255.58,1,0,0.697,5,28,0,7,Online,1,Medium,A,0
+CLM000334,41,Male,West,Auto,5,21418.96,34757.65,4,1,0.793,9,26,0,3,Online,0,Very High,D,0
+CLM000335,46,Male,East,Health,16,69174.53,31607.11,0,1,0.697,8,0,0,9,Online,1,High,A,1
+CLM000336,33,Female,East,Property,9,13611.26,10570.11,1,0,0.855,3,10,0,14,Branch,1,Very High,B,0
+CLM000337,74,Female,East,Auto,16,90275.63,40275.11,0,1,0.877,9,7,1,12,Online,1,High,B,1
+CLM000338,74,Female,East,Auto,13,45597.38,49094.51,1,1,0.943,10,28,0,3,Online,0,High,C,1
+CLM000339,71,Male,South,Life,4,61232.48,36597.12,1,1,0.35,2,29,1,1,Branch,0,Very High,D,1
+CLM000340,45,Female,North,Property,15,10441.79,31783.44,0,1,0.767,10,25,0,13,Branch,1,Low,B,1
+CLM000341,56,Male,West,Travel,3,76091.69,34034.93,2,0,0.662,6,28,1,1,Online,1,Low,C,0
+CLM000342,40,Female,South,Property,4,43883.15,30467.88,2,1,0.474,6,15,1,8,Agent,0,High,C,1
+CLM000343,74,Male,East,Travel,12,22276.35,12454.28,2,1,0.696,3,25,0,2,Branch,1,Medium,A,1
+CLM000344,49,Male,West,Travel,15,55384.92,21838.8,2,1,0.27,5,25,1,13,Online,0,Very High,C,1
+CLM000345,53,Male,East,Travel,15,7250.89,41276.49,3,1,0.699,1,27,1,1,Branch,0,Medium,B,0
+CLM000346,39,Male,West,Auto,3,88039.39,2166.98,3,0,0.898,8,7,0,13,Agent,0,High,D,0
+CLM000347,57,Female,South,Auto,8,10338.42,33505.21,0,1,0.707,6,15,0,4,Branch,1,Low,D,1
+CLM000348,60,Female,North,Life,10,80333.45,46711.77,0,0,0.241,1,2,1,11,Online,0,Low,B,1
+CLM000349,38,Male,South,Travel,16,57051.89,39295.04,0,1,0.014,8,17,0,4,Branch,1,Very High,A,1
+CLM000350,72,Male,West,Health,3,62333.09,41937.42,2,0,0.581,3,10,1,10,Branch,0,Very High,A,1
+CLM000351,60,Female,South,Life,11,57378.96,29152.59,1,0,0.633,5,18,0,12,Agent,1,Very High,A,0
+CLM000352,21,Female,East,Health,6,46655.52,43121.74,1,0,0.833,7,21,1,8,Agent,0,High,A,0
+CLM000353,28,Male,North,Health,9,50535.59,8784.17,2,1,0.156,7,3,0,8,Agent,1,High,A,1
+CLM000354,39,Male,North,Property,14,67108.3,23031.01,0,1,0.685,1,22,0,11,Online,0,High,D,1
+CLM000355,29,Male,South,Property,6,68884.35,23016.19,1,1,0.882,2,4,0,6,Agent,1,Very High,D,1
+CLM000356,53,Female,West,Health,12,74315.91,4388.61,0,1,0.703,8,25,1,1,Branch,1,Medium,C,1
+CLM000357,37,Male,South,Life,11,88408.57,44108.16,0,0,0.976,8,15,0,5,Agent,0,Medium,B,0
+CLM000358,41,Male,North,Travel,19,13396.84,44286.87,0,1,0.691,7,24,1,5,Agent,1,Very High,D,1
+CLM000359,63,Male,South,Property,12,7634.64,17096.31,3,0,0.789,7,11,1,2,Agent,0,Medium,C,0
+CLM000360,37,Male,North,Health,15,94295.96,3233.51,0,0,0.985,9,7,1,8,Branch,1,Very High,A,0
+CLM000361,73,Male,South,Health,8,21520.02,8200.79,0,1,0.13,7,27,0,4,Online,0,Low,D,1
+CLM000362,30,Male,South,Health,4,21840.19,3596.96,0,1,0.076,8,23,0,6,Agent,1,Very High,B,1
+CLM000363,48,Male,North,Auto,5,56777.43,15469.77,2,1,0.624,7,16,0,7,Branch,0,High,B,1
+CLM000364,48,Female,East,Auto,2,71803.46,20087.54,1,1,0.547,8,16,0,10,Agent,0,Medium,B,1
+CLM000365,32,Female,East,Travel,17,84170.7,27132.12,2,0,0.489,9,11,1,6,Online,0,Medium,D,1
+CLM000366,77,Female,North,Travel,18,86119.67,18389.49,0,0,0.454,9,29,1,13,Branch,0,Very High,C,1
+CLM000367,34,Female,West,Auto,13,51504.69,40983.89,1,0,0.403,7,7,0,13,Agent,1,Very High,B,1
+CLM000368,76,Female,South,Auto,3,57516.86,7490.57,0,0,0.407,6,28,1,8,Agent,0,Medium,D,1
+CLM000369,25,Male,West,Property,3,78778.67,18872.89,2,0,0.845,5,29,1,9,Branch,0,Medium,D,0
+CLM000370,58,Male,East,Auto,7,52487.33,13005.98,2,1,0.793,4,19,0,1,Agent,1,Low,D,1
+CLM000371,53,Female,North,Life,17,35770.72,23187.02,0,1,0.921,7,13,1,8,Branch,0,Medium,A,1
+CLM000372,43,Female,West,Life,5,59404.84,39397.73,1,1,0.615,6,17,0,1,Branch,1,Low,A,1
+CLM000373,56,Male,South,Property,14,38204.7,46791.02,1,0,0.763,7,16,1,3,Online,1,High,C,0
+CLM000374,32,Male,South,Auto,1,51475.55,45574.98,5,1,0.05,1,12,1,9,Branch,0,Low,D,1
+CLM000375,25,Male,South,Property,1,18176.11,14411.96,1,0,0.751,1,0,1,10,Online,0,High,C,0
+CLM000376,38,Female,West,Life,6,92985.33,28506.19,0,1,0.019,3,21,1,9,Branch,0,High,C,1
+CLM000377,52,Female,East,Life,19,29959.13,21219.82,0,1,0.933,1,5,0,8,Agent,1,Very High,A,1
+CLM000378,45,Female,East,Auto,19,94768.98,42481.41,1,0,0.282,10,12,1,10,Agent,1,High,D,1
+CLM000379,34,Male,South,Auto,14,62646.26,35459.19,1,1,0.079,1,9,1,8,Online,0,High,D,1
+CLM000380,29,Female,South,Auto,4,37878.38,9693.79,0,0,0.092,8,11,0,8,Agent,0,Medium,D,1
+CLM000381,31,Male,West,Life,3,91410.04,22714.55,0,1,0.06,9,25,1,8,Branch,1,High,C,1
+CLM000382,36,Female,West,Property,16,81923.38,45265.81,1,0,0.664,10,14,1,7,Online,0,High,B,0
+CLM000383,67,Male,West,Auto,16,91008.35,44830.36,1,0,0.73,3,25,0,9,Branch,1,Low,A,0
+CLM000384,66,Male,North,Health,1,18160.96,41213.49,0,0,0.493,10,13,1,14,Agent,0,Medium,B,1
+CLM000385,38,Male,South,Health,6,39621.9,29388.45,1,0,0.015,2,20,1,3,Online,1,Very High,C,1
+CLM000386,57,Male,West,Property,18,89940.26,33023.01,2,0,0.801,5,25,0,5,Online,0,Low,D,0
+CLM000387,54,Male,North,Life,5,98076.25,6376.1,0,1,0.784,8,27,0,14,Branch,0,High,C,1
+CLM000388,45,Male,West,Auto,13,87437.78,11541.57,1,0,0.246,10,29,0,7,Online,0,Low,B,1
+CLM000389,75,Male,South,Life,12,35404.36,21846.08,1,0,0.614,1,24,0,10,Branch,1,High,C,0
+CLM000390,59,Female,West,Health,6,82248.92,41265.84,2,0,0.328,10,12,0,6,Agent,0,Very High,D,1
+CLM000391,65,Male,South,Travel,14,84249.96,24365.54,0,1,0.808,6,28,0,13,Branch,0,Low,A,1
+CLM000392,48,Male,West,Property,6,93322.93,15512.65,1,0,0.532,10,14,0,10,Agent,1,Very High,A,1
+CLM000393,23,Male,South,Health,18,65984.55,8480.33,0,0,0.715,7,11,0,3,Agent,0,Very High,C,0
+CLM000394,60,Male,North,Auto,3,69640.18,2680,0,1,0.681,10,15,1,8,Online,1,Very High,C,1
+CLM000395,78,Male,North,Travel,18,90026.78,22189.75,0,1,0.75,6,25,1,14,Branch,0,Low,B,1
+CLM000396,65,Female,North,Auto,8,29512.53,11239.33,0,1,0.907,4,12,1,12,Branch,1,Medium,D,1
+CLM000397,62,Male,East,Auto,8,10477.18,35650.68,1,0,0.313,2,7,0,8,Branch,1,Medium,D,1
+CLM000398,68,Female,West,Auto,16,32342.09,19291.03,1,1,0.043,5,28,0,12,Branch,1,Low,C,1
+CLM000399,60,Male,North,Property,6,66147.44,44732.93,1,1,0.379,7,5,1,10,Online,1,Low,C,1
+CLM000400,32,Female,East,Health,5,51895.45,24459.02,1,1,0.039,3,9,0,11,Branch,0,High,D,1
+CLM000401,49,Female,South,Travel,9,40120.37,48304.49,0,1,0.671,6,2,1,1,Branch,1,Very High,D,1
+CLM000402,39,Male,West,Health,10,27326.92,39273.25,0,1,0.191,1,17,0,11,Branch,0,High,B,1
+CLM000403,26,Male,North,Travel,15,62652.59,9468.57,1,0,0.417,2,12,1,9,Online,1,Very High,B,1
+CLM000404,31,Female,East,Travel,9,69350.17,36349.51,0,0,0.602,2,9,0,11,Online,0,Low,A,0
+CLM000405,38,Female,West,Travel,17,97494.37,41829.89,0,1,0.278,9,9,1,6,Agent,0,Low,B,1
+CLM000406,28,Male,South,Property,3,1959,21290.2,0,1,0.947,9,11,0,10,Agent,1,Very High,A,1
+CLM000407,77,Male,North,Travel,2,97406.24,20185.38,0,0,0.709,8,6,0,7,Branch,1,Low,C,0
+CLM000408,57,Female,North,Travel,11,41639.08,5113.21,1,1,0.259,8,4,1,4,Agent,1,Very High,A,1
+CLM000409,71,Male,South,Property,16,87198.16,17203.99,0,0,0.051,5,28,0,4,Online,0,Medium,C,1
+CLM000410,63,Female,East,Property,5,22408.8,27861.74,1,1,0.734,4,1,1,2,Online,0,Low,B,1
+CLM000411,71,Female,East,Property,2,39799.15,2216.3,0,1,0.976,4,21,1,4,Agent,0,Very High,A,1
+CLM000412,53,Female,East,Auto,6,12002.58,6544.52,0,0,0.791,4,8,1,4,Branch,1,Very High,B,0
+CLM000413,35,Female,North,Auto,11,65982.2,2742.08,0,1,0.035,2,12,1,9,Agent,1,Low,D,1
+CLM000414,48,Female,West,Travel,3,97750.71,49426.84,2,0,0.768,4,9,1,2,Agent,1,High,D,0
+CLM000415,41,Male,East,Travel,14,85206.88,28429.47,0,0,0.689,1,10,0,5,Branch,1,Medium,D,0
+CLM000416,24,Female,South,Property,17,82019.66,1301.92,2,1,0.781,7,1,1,8,Agent,1,High,D,1
+CLM000417,61,Male,East,Property,18,29495.3,3519.85,2,1,0.89,6,1,0,2,Agent,1,Very High,C,1
+CLM000418,71,Male,South,Life,10,28316.35,21738.59,1,0,0.661,6,9,0,5,Branch,1,Medium,A,0
+CLM000419,33,Female,South,Property,18,13078.73,11010.53,0,0,0.997,10,24,1,12,Agent,1,Low,D,0
+CLM000420,26,Female,South,Travel,2,2354.56,23534.18,2,0,0.548,8,21,0,2,Online,0,High,B,1
+CLM000421,74,Female,West,Health,12,5991.26,48282.48,1,0,0.5,10,13,1,5,Agent,1,Very High,D,1
+CLM000422,41,Female,North,Travel,12,91809.54,17377.45,0,1,0.715,4,21,1,13,Branch,1,Low,A,1
+CLM000423,73,Male,East,Auto,4,67959.75,39713.46,1,0,0.001,5,3,0,8,Branch,0,Low,D,1
+CLM000424,31,Female,West,Health,12,5204.52,22397.14,0,0,0.837,7,13,1,12,Online,0,Low,C,0
+CLM000425,58,Male,South,Property,5,50398.14,23303.16,0,1,0.645,1,20,0,3,Agent,0,Very High,D,1
+CLM000426,45,Male,East,Health,8,2276.85,13096.83,3,0,0.549,6,1,0,5,Agent,1,Low,C,0
+CLM000427,44,Female,North,Health,12,10401.56,12394.81,0,0,0.83,6,23,0,13,Branch,1,Medium,C,0
+CLM000428,43,Female,East,Property,3,89240.5,3757.68,1,0,0.318,2,28,1,6,Online,1,Very High,C,1
+CLM000429,46,Female,North,Property,3,37102.4,34885.36,1,1,0.701,9,6,1,3,Branch,1,Very High,C,1
+CLM000430,36,Male,East,Health,13,62298.1,36647.33,2,0,0.617,6,10,0,8,Branch,1,Low,A,0
+CLM000431,25,Female,North,Auto,11,11696.41,48192.26,0,0,0.086,3,15,0,3,Branch,1,Medium,B,1
+CLM000432,32,Male,East,Life,10,24140.34,27445.07,1,0,0.272,6,13,1,6,Agent,0,Very High,B,1
+CLM000433,59,Female,South,Auto,8,97726.14,8119.02,2,0,0.908,4,24,1,10,Branch,1,Very High,D,0
+CLM000434,63,Male,South,Property,5,94216.11,17196.49,0,1,0.924,9,28,1,6,Branch,0,Very High,D,1
+CLM000435,69,Male,South,Auto,17,40197.79,33945.31,1,1,0.935,7,12,0,2,Agent,1,Low,A,1
+CLM000436,60,Male,East,Travel,19,38406.08,48481.43,0,1,0.162,1,2,1,14,Online,1,Very High,A,1
+CLM000437,69,Female,West,Life,19,12399.47,20334.86,0,0,0.66,6,19,1,6,Branch,1,High,D,0
+CLM000438,40,Female,North,Travel,17,73318.76,21040.54,1,1,0.262,2,5,0,4,Agent,0,Very High,B,1
+CLM000439,18,Female,North,Auto,4,67886.51,8545.63,1,1,0.215,7,29,1,9,Agent,0,Low,B,1
+CLM000440,52,Female,North,Auto,4,26171.86,6265.65,1,0,0.593,9,17,1,12,Agent,0,Medium,D,1
+CLM000441,33,Female,South,Life,4,87123.85,28138.44,1,1,0.755,7,8,1,14,Agent,1,Very High,B,1
+CLM000442,39,Female,South,Life,4,63379.22,24103.52,1,0,0.678,10,25,0,10,Online,0,Very High,C,0
+CLM000443,23,Male,South,Travel,19,4988.27,36242.27,1,0,0.01,10,0,1,5,Agent,1,Low,C,1
+CLM000444,71,Male,West,Auto,12,34842.88,31087.61,1,1,0.352,2,19,0,5,Online,1,Very High,D,1
+CLM000445,71,Female,West,Property,18,19739.08,6791.26,1,0,0.835,10,10,1,11,Branch,1,Very High,D,0
+CLM000446,21,Male,North,Life,2,80178.55,17978.59,3,0,0.247,7,27,1,12,Online,0,Medium,C,0
+CLM000447,72,Male,East,Auto,5,3081.09,24177.61,2,1,0.543,10,14,0,13,Branch,0,High,B,1
+CLM000448,64,Female,West,Life,15,74487.06,7576.56,1,1,0.512,3,2,1,8,Branch,0,Low,A,1
+CLM000449,75,Female,East,Life,3,51063.98,7693.67,0,0,0.52,3,15,0,12,Online,1,Very High,B,1
+CLM000450,30,Female,North,Auto,7,91836.76,6120.26,0,0,0.903,1,4,1,1,Agent,1,Low,D,0
+CLM000451,60,Female,East,Health,17,45973.56,29666.12,0,1,0.984,10,13,1,14,Agent,0,Low,B,1
+CLM000452,53,Male,East,Life,15,98961.03,18227.92,1,1,0.382,2,26,1,9,Branch,1,Very High,B,1
+CLM000453,68,Male,South,Auto,9,76831.19,16891.75,1,0,0.022,9,1,1,3,Online,1,High,C,1
+CLM000454,25,Male,East,Travel,7,96352.74,27718.28,1,0,0.051,2,14,1,2,Agent,1,High,A,1
+CLM000455,72,Male,West,Health,12,33866.66,6062.04,0,1,0.628,7,10,0,3,Agent,0,Medium,B,1
+CLM000456,70,Male,South,Travel,13,96199.96,34521.13,0,0,0.631,7,21,0,8,Online,1,Very High,D,0
+CLM000457,36,Male,East,Property,1,73356.16,17042.54,3,1,0.89,3,7,1,6,Agent,0,Very High,A,0
+CLM000458,79,Male,West,Life,16,99656.1,26220.78,3,0,0.949,5,25,1,5,Branch,0,High,C,0
+CLM000459,58,Female,West,Travel,11,36188.49,10811.61,3,0,0.161,9,6,0,11,Branch,0,Low,A,0
+CLM000460,61,Female,East,Health,8,74484.87,10900.31,0,0,0.78,4,26,1,11,Branch,0,Very High,B,0
+CLM000461,70,Female,South,Property,8,79828.12,28585.85,1,0,0.317,6,20,1,1,Agent,1,High,C,1
+CLM000462,58,Female,South,Life,9,32585.46,9546.18,1,1,0.091,2,7,0,7,Agent,0,High,A,1
+CLM000463,52,Male,North,Property,17,4062.16,3514.65,0,1,0.521,1,3,0,13,Online,0,Low,B,1
+CLM000464,77,Female,West,Health,16,59221.27,6523.92,2,1,0.296,9,0,1,3,Agent,0,Medium,B,1
+CLM000465,51,Female,South,Travel,18,79278.42,9468.01,0,0,0.594,5,25,1,9,Online,1,High,C,1
+CLM000466,60,Male,East,Auto,18,18011.12,4845.52,0,1,0.36,4,7,0,13,Online,0,Very High,C,1
+CLM000467,43,Male,West,Health,3,2993.65,46671.27,2,0,0.663,2,28,0,4,Branch,1,Low,A,0
+CLM000468,62,Male,West,Health,8,29434.9,36147.79,1,1,0.897,5,10,0,5,Online,0,Medium,D,1
+CLM000469,59,Male,North,Travel,12,50505.77,43026.03,0,1,0.758,4,6,1,6,Online,1,Very High,B,1
+CLM000470,77,Female,North,Auto,7,97679.54,10879.67,0,0,0.303,3,4,0,9,Agent,0,Low,A,1
+CLM000471,67,Male,East,Travel,13,6392.14,16763.63,2,1,0.726,3,25,0,2,Agent,0,Medium,D,1
+CLM000472,71,Male,South,Health,19,63970.77,16006.69,3,0,0.751,7,2,0,14,Branch,0,Low,B,0
+CLM000473,36,Female,East,Auto,19,38290.97,47836.45,2,0,0.249,4,18,1,1,Branch,0,Medium,D,1
+CLM000474,62,Female,South,Health,2,85865.86,43005.56,0,1,0.69,7,5,0,14,Online,0,Medium,A,1
+CLM000475,72,Female,East,Property,19,64926.78,25278.68,0,1,0.802,6,28,1,3,Agent,1,Medium,B,1
+CLM000476,65,Female,North,Auto,8,66569.06,16776.72,1,1,0.859,9,12,0,13,Branch,0,High,A,1
+CLM000477,25,Female,South,Life,3,25979.16,34047.3,0,1,0.86,1,26,1,6,Branch,0,Medium,D,1
+CLM000478,61,Female,North,Auto,10,82234.66,10129.48,1,1,0.578,1,2,1,5,Agent,1,Very High,A,1
+CLM000479,49,Male,West,Life,3,93452.73,46658.2,3,0,0.304,4,22,1,2,Online,1,Low,C,0
+CLM000480,31,Female,South,Property,15,8020.68,16642.34,1,0,0.249,9,1,1,8,Branch,1,Very High,C,1
+CLM000481,78,Male,West,Health,17,2060.81,7393.08,0,1,0.369,9,28,1,2,Online,1,Low,A,1
+CLM000482,24,Female,South,Health,6,51046.56,44055.77,0,0,0.25,1,4,1,9,Online,1,Very High,C,1
+CLM000483,47,Female,West,Property,3,42797.03,21049.71,3,1,0.257,2,3,0,7,Online,1,Medium,C,1
+CLM000484,47,Male,East,Health,5,99577.71,30004.48,0,1,0.345,9,4,1,9,Branch,0,Medium,B,1
+CLM000485,59,Female,West,Life,4,1022.48,11371.93,1,1,0.168,6,26,1,1,Branch,1,Low,C,1
+CLM000486,24,Female,South,Health,4,43623.05,46475.99,1,0,0.744,1,27,1,9,Online,0,Low,D,0
+CLM000487,53,Male,West,Life,2,11694.87,45933.12,0,1,0.275,1,12,1,2,Branch,1,Low,C,1
+CLM000488,30,Male,North,Health,10,68964.88,37085.03,3,1,0.461,3,6,1,2,Branch,1,Medium,A,1
+CLM000489,24,Male,West,Travel,1,25611.88,37851.18,1,1,0.097,5,25,1,9,Branch,0,High,B,1
+CLM000490,64,Female,South,Travel,19,24240.69,20472.31,0,1,0.828,6,7,0,6,Branch,0,Low,A,1
+CLM000491,66,Female,West,Travel,19,7750.48,12061.58,1,1,0.417,6,10,1,14,Branch,0,Low,C,1
+CLM000492,68,Male,West,Property,16,11573.27,16842.72,2,0,0.164,8,21,0,8,Branch,0,High,A,1
+CLM000493,36,Female,South,Travel,18,3055.05,16650.97,0,1,0.865,6,4,0,3,Online,0,High,A,1
+CLM000494,44,Male,South,Life,8,14761.22,37025.08,0,1,0.769,10,10,0,9,Online,0,Low,A,1
+CLM000495,40,Male,North,Property,12,60986.69,49049.29,0,1,0.953,7,18,1,10,Agent,1,Very High,B,1
+CLM000496,78,Male,North,Life,9,83152.31,22636.45,1,0,0.401,3,17,1,13,Branch,0,Very High,B,1
+CLM000497,40,Female,South,Property,15,21779.87,47565.52,1,0,0.7,7,26,0,5,Branch,0,High,C,0
+CLM000498,19,Male,East,Health,6,11759.57,38294.03,1,1,0.768,3,22,0,2,Branch,0,Low,B,1
+CLM000499,58,Male,North,Property,18,74826.05,26789.92,3,1,0.356,7,25,1,14,Online,1,Very High,C,1
+CLM000500,38,Female,East,Health,10,14094.6,19415.11,2,1,0.601,9,14,1,11,Branch,1,Very High,A,1
+CLM000501,34,Female,South,Travel,2,47659.52,10061.42,1,0,0.343,7,27,1,10,Branch,0,High,B,1
+CLM000502,28,Female,East,Life,11,61371.46,3259.17,0,0,0.081,8,13,1,1,Agent,0,Medium,B,1
+CLM000503,41,Male,North,Property,9,1598.66,45585.9,0,0,0.162,8,25,0,5,Online,0,Medium,C,1
+CLM000504,35,Male,East,Health,13,55845.33,44281.7,2,0,0.328,9,13,0,13,Branch,0,Very High,C,1
+CLM000505,21,Male,South,Life,15,74054.85,47627.09,1,0,0.499,5,22,0,10,Online,1,Very High,D,1
+CLM000506,43,Male,South,Travel,17,34871.13,21476.62,1,1,0.917,3,16,1,1,Online,1,Low,B,1
+CLM000507,66,Female,East,Property,17,72786,15953.5,1,1,0.791,6,6,1,14,Branch,1,Low,A,1
+CLM000508,33,Male,West,Health,1,74737.68,2532.87,0,1,0.063,10,7,0,7,Branch,1,Low,D,1
+CLM000509,23,Male,South,Travel,9,19455.56,31919.83,0,1,0.204,7,0,1,9,Agent,0,High,D,1
+CLM000510,37,Female,East,Property,11,96759.85,11193.56,2,1,0.525,8,29,1,12,Agent,1,Medium,A,1
+CLM000511,38,Male,South,Life,2,1093.4,10696.01,0,0,0.242,7,16,1,12,Online,1,Medium,A,1
+CLM000512,37,Male,West,Property,12,93932.75,42919.74,2,0,0.342,6,12,1,4,Agent,1,Very High,A,1
+CLM000513,35,Female,South,Property,19,81758.79,16728.22,0,1,0.855,6,19,0,5,Agent,0,Very High,C,1
+CLM000514,54,Male,North,Auto,11,84907.22,38951.52,0,0,0.165,7,20,0,9,Branch,0,High,A,1
+CLM000515,20,Male,East,Auto,8,21962.84,10226.1,0,0,0.704,10,23,0,3,Online,0,Medium,C,0
+CLM000516,31,Female,North,Travel,6,69923.05,13621.52,1,0,0.822,1,16,0,14,Agent,0,Medium,A,0
+CLM000517,68,Female,West,Life,10,6673.72,24372.56,0,1,0.712,9,3,1,5,Branch,0,Medium,A,1
+CLM000518,19,Female,North,Auto,6,72392.1,6510.04,0,0,0.487,9,11,0,2,Online,1,Low,A,1
+CLM000519,75,Male,South,Auto,10,52411.96,17054.91,1,1,0.085,6,17,0,6,Agent,0,High,A,1
+CLM000520,61,Female,North,Health,7,93353.9,17676.62,0,1,0.737,6,28,1,6,Online,1,Medium,D,1
+CLM000521,27,Male,North,Travel,17,2188.3,46066.53,1,0,0.085,8,20,1,6,Online,0,Low,D,1
+CLM000522,74,Male,South,Life,18,48866.31,12212.18,0,0,0.457,10,26,1,14,Agent,0,Very High,D,1
+CLM000523,69,Male,West,Property,11,98136.97,19210.7,1,1,0.834,7,7,0,5,Online,1,High,B,1
+CLM000524,35,Male,East,Travel,3,39932.89,5477.86,1,1,0.332,8,7,0,14,Agent,1,Medium,A,1
+CLM000525,70,Male,East,Property,11,76893,5424.99,2,0,0.701,4,9,0,2,Agent,0,Very High,A,0
+CLM000526,47,Male,East,Property,16,76019.88,24359.86,0,1,0.419,9,7,1,9,Online,1,Very High,B,1
+CLM000527,22,Male,North,Property,19,7324.1,8647.66,0,1,0.515,10,25,0,12,Branch,1,High,D,1
+CLM000528,28,Female,East,Life,5,53749.88,37300.04,1,0,0.394,10,23,1,7,Branch,1,High,D,1
+CLM000529,79,Female,South,Health,5,41235.24,38434.19,1,1,0.624,5,13,1,10,Agent,1,Medium,A,1
+CLM000530,24,Female,North,Property,15,67963.44,38139.8,0,0,0.373,4,10,1,10,Branch,0,High,B,1
+CLM000531,54,Male,North,Auto,13,45577.4,49777.79,0,0,0.847,7,26,1,14,Branch,0,Medium,C,0
+CLM000532,21,Male,South,Life,10,81048.48,42011.14,0,1,0.382,1,27,0,12,Agent,0,High,B,1
+CLM000533,71,Male,South,Life,3,62497.45,31910.55,0,1,0.187,7,9,0,10,Agent,1,High,A,1
+CLM000534,28,Female,South,Life,1,28281.11,46939.97,0,0,0.765,3,9,0,9,Online,0,Very High,C,0
+CLM000535,55,Male,West,Health,19,40513.48,15860.2,0,1,0.983,2,15,1,4,Online,0,Low,B,1
+CLM000536,40,Male,North,Life,3,80382.18,19171.49,3,0,0.326,9,13,1,13,Agent,0,Low,C,0
+CLM000537,62,Male,South,Travel,16,29877.65,12505.94,0,0,0.289,1,6,1,10,Branch,0,Medium,C,1
+CLM000538,65,Male,North,Auto,14,86691.55,47720.29,1,0,0.339,7,21,1,1,Branch,0,Medium,A,1
+CLM000539,26,Female,North,Travel,17,26384.89,29472.19,2,0,0.75,3,10,1,7,Branch,1,Very High,A,0
+CLM000540,66,Female,East,Travel,15,58624.94,36004.46,1,1,0.475,4,2,1,1,Online,1,Medium,D,1
+CLM000541,67,Female,East,Auto,17,48575.43,43216.5,0,0,0.417,10,22,1,5,Branch,1,High,B,1
+CLM000542,32,Male,West,Travel,15,31826.81,41223.79,2,0,0.193,4,3,1,4,Branch,0,High,B,1
+CLM000543,62,Male,North,Life,4,1944.79,10469.61,1,0,0.988,10,8,0,7,Agent,0,Low,B,0
+CLM000544,75,Female,South,Life,19,71257.46,23287.59,1,0,0.282,5,29,0,1,Online,0,Very High,B,1
+CLM000545,34,Female,North,Auto,8,14308.91,38837.04,1,1,0.562,8,0,1,13,Agent,0,High,B,1
+CLM000546,66,Male,East,Property,6,25836.47,49341.04,2,1,0.927,8,13,0,4,Online,1,High,B,1
+CLM000547,55,Male,North,Travel,18,95928.32,14295.37,0,0,0.279,1,0,0,3,Agent,1,Low,A,1
+CLM000548,38,Male,West,Property,13,45307.63,19917.22,1,1,0.115,2,20,1,7,Branch,1,Very High,B,1
+CLM000549,40,Female,West,Property,17,26612.38,19949.01,1,1,0.938,8,6,1,10,Agent,1,Very High,A,1
+CLM000550,76,Female,South,Auto,15,2405.47,27108.24,1,0,0.733,7,17,0,6,Agent,0,Low,A,0
+CLM000551,24,Female,North,Travel,13,41158.88,26899.52,0,0,0.853,4,23,0,9,Agent,1,Low,A,0
+CLM000552,68,Female,South,Property,10,30246.78,5635.94,2,1,0.817,7,16,0,12,Online,0,Low,A,1
+CLM000553,32,Female,West,Health,3,34248.51,2103.26,1,1,0.705,5,16,0,1,Agent,1,Medium,D,1
+CLM000554,64,Male,North,Health,7,19355.48,7605.47,1,1,0.08,2,26,0,1,Agent,0,Medium,B,1
+CLM000555,35,Female,East,Travel,2,58727.47,43464.99,1,1,0.262,9,26,0,14,Agent,1,Medium,A,1
+CLM000556,68,Male,West,Life,4,25515.53,47927.84,1,1,0.321,6,22,1,4,Branch,0,Very High,B,1
+CLM000557,55,Male,East,Health,1,82353.49,5767.38,1,1,0.321,2,9,1,12,Agent,1,Low,C,1
+CLM000558,56,Female,South,Health,12,45026.56,20850.11,1,1,0.003,3,27,0,7,Online,0,Medium,B,1
+CLM000559,72,Female,North,Property,13,49717.11,884.45,1,1,0.687,6,17,0,2,Online,1,High,D,1
+CLM000560,20,Female,West,Travel,19,68037.35,46922.38,0,1,0.484,1,6,0,8,Online,1,Very High,B,1
+CLM000561,21,Female,West,Travel,6,71821.05,4933.52,2,0,0.367,8,5,1,8,Online,0,Very High,A,1
+CLM000562,52,Female,West,Property,8,24924.23,40106.81,1,1,0.506,8,12,1,14,Agent,1,Medium,C,1
+CLM000563,30,Male,South,Health,8,69036.2,18303.94,0,0,0.702,9,12,1,2,Online,1,High,D,0
+CLM000564,45,Male,North,Property,15,76858.3,34822.19,0,0,0.294,10,11,1,5,Branch,1,Very High,D,1
+CLM000565,56,Male,West,Travel,13,23290.94,49374.74,2,1,0.431,3,2,1,5,Online,1,Very High,A,1
+CLM000566,28,Male,North,Property,10,18241.51,36249.7,1,1,0.027,7,12,1,6,Online,0,Medium,B,1
+CLM000567,49,Male,South,Health,16,6219.26,32797.56,1,0,0.455,6,28,0,11,Agent,1,Low,D,1
+CLM000568,23,Male,South,Life,15,90074.56,15439.1,2,1,0.266,2,14,0,7,Agent,1,High,A,1
+CLM000569,55,Male,West,Life,19,86752.19,4720.78,0,1,0.265,2,22,0,6,Agent,1,High,C,1
+CLM000570,52,Female,North,Life,13,52895.43,24682.85,1,0,0.436,7,12,1,8,Branch,0,Very High,A,1
+CLM000571,44,Female,South,Auto,7,62530.35,16129.3,0,0,0.134,5,22,1,2,Branch,0,Low,A,1
+CLM000572,32,Male,East,Life,19,51192.96,22969.34,1,0,0.171,7,3,1,3,Agent,1,Very High,C,1
+CLM000573,46,Female,West,Life,11,3439.8,46568.28,4,0,0.681,1,2,0,12,Branch,0,Very High,A,0
+CLM000574,18,Male,East,Property,3,44473.94,45635.02,0,1,0.826,10,4,0,2,Online,1,Very High,A,1
+CLM000575,77,Female,East,Auto,18,94741.14,39321.43,0,1,0.931,6,15,0,3,Online,1,Very High,C,1
+CLM000576,22,Female,North,Travel,13,68568.66,18086.56,1,1,0.316,1,15,0,3,Agent,1,High,C,1
+CLM000577,64,Female,North,Auto,11,45454.74,44596.19,0,1,0.737,10,25,1,11,Online,1,High,D,1
+CLM000578,63,Female,East,Property,1,35841.05,46914.24,1,0,0.254,6,20,1,8,Branch,1,Low,B,1
+CLM000579,25,Female,South,Property,16,44366.36,42264.58,2,1,0.187,4,12,1,5,Branch,1,Very High,C,1
+CLM000580,24,Male,South,Health,16,84194.47,29596.02,1,0,0.819,1,24,0,9,Agent,0,Very High,B,0
+CLM000581,44,Male,South,Auto,19,3634.23,14073.54,0,1,0.581,7,28,0,10,Online,0,Low,B,1
+CLM000582,59,Male,West,Health,14,13484.9,17947.81,0,0,0.859,1,22,1,10,Agent,1,Medium,C,0
+CLM000583,42,Female,West,Life,6,81472.25,5729.69,1,1,0.834,6,4,1,7,Agent,1,Low,A,1
+CLM000584,65,Male,East,Property,1,2897.62,15346.96,0,0,0.58,3,13,0,11,Branch,1,Very High,B,1
+CLM000585,39,Female,East,Travel,13,5759.82,31250.71,0,0,0.921,8,27,1,8,Online,1,High,A,0
+CLM000586,76,Female,North,Property,16,24055.04,32473.43,1,0,0.755,3,3,0,5,Online,0,Medium,B,0
+CLM000587,30,Male,South,Auto,7,29932.65,49212.43,1,0,0.252,3,11,0,1,Agent,1,Very High,A,1
+CLM000588,50,Male,West,Auto,9,65999.71,5622.02,1,1,0.453,4,27,0,1,Branch,1,Medium,A,1
+CLM000589,73,Male,East,Life,4,82012.47,4016.35,0,0,0.515,3,0,0,3,Agent,1,High,D,1
+CLM000590,41,Female,East,Property,4,20521.12,32349.73,0,1,0.237,2,17,1,9,Agent,1,Medium,D,1
+CLM000591,39,Female,West,Life,12,22612.01,11854.98,1,1,0.172,1,15,1,3,Online,0,Low,C,1
+CLM000592,48,Female,East,Health,16,17198,49585.4,4,1,0.275,9,18,0,5,Agent,1,Low,C,1
+CLM000593,33,Female,East,Travel,14,49434.65,22693.15,1,0,0.098,10,10,0,5,Agent,0,High,B,1
+CLM000594,59,Male,South,Health,4,26030.9,37002.86,1,0,0.633,9,14,1,8,Branch,1,Very High,C,0
+CLM000595,46,Male,North,Property,18,30656.08,34187.75,0,1,0.898,3,18,1,14,Agent,1,High,D,1
+CLM000596,55,Female,West,Health,16,91046.88,1337.18,1,1,0.414,1,27,1,5,Branch,1,Medium,C,1
+CLM000597,61,Male,West,Travel,5,63387.33,38616.05,2,1,0.522,2,11,0,3,Branch,1,High,B,1
+CLM000598,74,Male,East,Health,2,10160.33,13402.75,2,0,0.906,3,22,0,9,Agent,1,Medium,C,0
+CLM000599,78,Male,East,Health,12,66137,7609.26,1,0,0.843,10,9,1,10,Online,1,High,B,0
+CLM000600,73,Female,West,Travel,5,36760.39,9111.2,1,1,0.535,3,25,0,14,Agent,1,High,C,1
+CLM000601,70,Female,North,Property,17,39639.26,17566.1,1,1,0.249,2,25,1,5,Online,1,Low,D,1
+CLM000602,57,Male,North,Property,18,64728.26,1925.66,0,0,0.32,8,1,0,9,Branch,0,High,D,1
+CLM000603,37,Male,South,Auto,11,66769.6,36009.95,1,0,0.945,10,26,1,3,Online,1,High,D,0
+CLM000604,67,Female,South,Travel,9,42845.98,869.43,0,0,0.732,7,6,1,12,Branch,1,Medium,A,0
+CLM000605,22,Female,East,Auto,17,7861.47,22288.93,1,0,0.029,7,0,0,2,Agent,1,Low,A,1
+CLM000606,70,Female,East,Auto,7,36515.51,31526.73,1,0,0.566,1,5,1,2,Online,1,Medium,D,1
+CLM000607,59,Male,South,Life,8,59037.31,36075.61,1,1,0.246,6,13,1,6,Agent,1,Very High,D,1
+CLM000608,43,Female,West,Property,19,63522.89,26886.24,0,0,0.149,9,12,0,9,Online,1,Low,B,1
+CLM000609,70,Female,North,Travel,2,6029.46,15468.59,3,0,0.084,8,26,1,7,Branch,1,Medium,A,0
+CLM000610,66,Male,South,Auto,9,43554.62,35887.47,0,0,0.964,9,29,1,5,Branch,0,High,C,0
+CLM000611,44,Male,North,Property,12,41855.15,740.99,0,1,0.025,8,2,1,4,Branch,0,High,B,1
+CLM000612,72,Male,North,Travel,16,84718.57,40126.54,0,1,0.207,9,10,1,10,Agent,0,Very High,C,1
+CLM000613,49,Female,South,Travel,2,34512.18,17407.73,2,0,0.65,9,15,0,5,Agent,0,High,B,0
+CLM000614,71,Male,West,Health,1,37503.79,15791.43,2,1,0.037,1,26,1,10,Online,1,Medium,B,1
+CLM000615,20,Male,North,Life,14,79339.76,41363.97,2,0,0.183,1,1,1,1,Branch,0,Medium,A,1
+CLM000616,47,Female,North,Property,11,98303.15,20283.07,0,1,0.701,3,1,0,5,Branch,0,High,A,1
+CLM000617,75,Male,North,Health,6,54659.51,1157.42,1,0,0.765,6,8,0,3,Online,0,Low,D,0
+CLM000618,18,Female,West,Health,12,87367.06,9033.12,1,0,0.518,5,1,1,7,Branch,0,High,D,1
+CLM000619,74,Male,South,Health,5,81964.39,40282.83,1,1,0.521,4,27,1,2,Agent,1,Very High,A,1
+CLM000620,29,Female,South,Property,14,1062.12,15196.34,2,1,0.129,2,22,1,2,Online,0,Low,C,1
+CLM000621,77,Male,North,Property,4,79102.48,18125.33,0,0,0.236,9,9,1,2,Online,0,Medium,C,1
+CLM000622,35,Male,East,Property,16,59763.95,43396.49,1,0,0.759,1,0,0,5,Agent,0,Medium,A,0
+CLM000623,40,Female,South,Property,14,95077.64,25919.13,1,0,0.493,2,22,1,14,Agent,0,Medium,A,1
+CLM000624,56,Male,North,Health,17,59202.33,27932.29,3,0,0.107,10,23,0,11,Branch,0,Very High,B,0
+CLM000625,33,Male,North,Health,17,46606.61,8858.53,0,1,0.877,8,29,1,3,Agent,0,Medium,D,1
+CLM000626,38,Female,East,Property,17,38357.5,48293.14,0,1,0.458,4,24,1,9,Online,1,Low,B,1
+CLM000627,70,Male,East,Travel,6,42474.36,1546.92,0,0,0.564,6,12,1,13,Branch,1,High,D,1
+CLM000628,74,Male,North,Health,14,87565.41,10310.72,1,0,0.906,10,16,1,8,Online,1,Medium,B,0
+CLM000629,75,Female,East,Property,18,94432.87,10201.02,0,0,0.702,3,7,1,6,Branch,1,High,A,0
+CLM000630,39,Female,East,Auto,3,12250.96,3075.18,1,0,0.787,4,29,0,3,Online,1,Very High,D,0
+CLM000631,32,Female,East,Property,15,38221.15,14591.4,1,1,0.018,4,3,1,2,Branch,1,Very High,D,1
+CLM000632,40,Male,North,Auto,2,53751.87,42548.49,0,0,0.118,2,22,1,2,Branch,1,Low,B,1
+CLM000633,71,Male,West,Life,11,99364.24,20479.48,1,0,0.725,8,27,0,7,Agent,0,Very High,B,0
+CLM000634,38,Female,East,Life,16,99566.29,37408.6,1,1,0.016,7,12,0,4,Online,1,Medium,D,1
+CLM000635,31,Female,North,Property,3,21267.23,22778.18,0,1,0.303,8,18,0,1,Agent,0,Low,A,1
+CLM000636,48,Female,East,Health,3,53173.75,25840.96,2,0,0.593,1,6,1,12,Branch,1,Medium,C,1
+CLM000637,61,Male,West,Auto,6,2553.89,12432.69,0,1,0.257,8,4,1,8,Agent,1,High,D,1
+CLM000638,51,Male,North,Health,1,1216.23,49992.54,1,0,0.073,7,22,0,2,Branch,0,Medium,D,1
+CLM000639,39,Female,South,Health,10,76960.64,13502.15,0,1,0.316,8,7,1,6,Agent,0,High,B,1
+CLM000640,70,Female,East,Health,5,35720.27,20348.03,0,1,0.153,7,14,1,9,Branch,0,Medium,D,1
+CLM000641,51,Female,South,Health,7,41235.44,18399.56,0,1,0.047,5,17,1,4,Agent,1,Very High,D,1
+CLM000642,35,Male,West,Property,6,50814.74,18069.09,2,1,0.972,3,15,1,11,Agent,1,Low,D,1
+CLM000643,20,Male,North,Property,7,66917.25,19839.33,0,1,0.729,9,15,0,2,Agent,0,Low,A,1
+CLM000644,65,Male,East,Life,14,2044.61,9782.6,0,0,0.892,8,9,0,4,Branch,0,Medium,D,0
+CLM000645,36,Female,East,Health,15,66685.54,31169.34,3,0,0.975,2,11,1,6,Online,0,Very High,C,0
+CLM000646,76,Female,East,Property,2,64184.22,15501.76,1,0,0.836,7,7,0,6,Online,1,Low,B,0
+CLM000647,50,Male,East,Travel,8,20299.33,42262.19,2,1,0.208,8,4,0,14,Branch,1,High,C,1
+CLM000648,74,Male,North,Auto,3,30991.57,4714.61,4,1,0.083,8,1,1,6,Agent,0,Medium,D,1
+CLM000649,65,Male,East,Life,17,49041.41,22411.41,0,1,0.443,8,1,1,12,Online,0,Medium,A,1
+CLM000650,34,Female,South,Property,16,48901.15,44487.78,0,0,0.933,5,25,0,5,Online,1,High,A,0
+CLM000651,23,Female,North,Life,1,51441.38,31096.1,0,0,0.081,10,8,0,9,Online,0,Very High,D,1
+CLM000652,28,Male,West,Health,17,6218.27,23600.82,2,0,0.243,7,23,1,1,Branch,1,Low,D,1
+CLM000653,71,Female,South,Life,3,29341.71,23305.25,2,1,0.825,7,21,0,11,Online,1,Medium,A,1
+CLM000654,50,Female,East,Life,7,99934.29,13778.39,1,0,0.776,10,7,0,9,Agent,1,Very High,B,0
+CLM000655,62,Female,West,Travel,12,21696.75,15904.14,0,0,0.629,2,27,1,11,Agent,0,Very High,B,0
+CLM000656,48,Male,West,Life,10,6950.75,25423.92,1,1,0.606,9,12,0,5,Branch,0,High,C,1
+CLM000657,48,Male,South,Auto,5,6316.01,47414.59,0,0,0.028,3,14,0,7,Branch,1,High,C,1
+CLM000658,49,Male,South,Life,5,74520.96,28083.97,1,1,0.414,1,13,0,10,Branch,1,High,A,1
+CLM000659,65,Female,West,Life,8,85055.33,28291.2,2,0,0.796,2,19,1,1,Branch,1,Very High,C,0
+CLM000660,36,Female,North,Life,6,3335.6,26374.12,2,1,0.205,7,16,0,9,Online,0,Low,D,1
+CLM000661,59,Male,North,Health,7,77717.92,44353.14,3,0,0.336,8,21,0,14,Online,0,High,B,0
+CLM000662,35,Female,East,Auto,11,78656.16,19668.68,0,0,0.515,6,26,1,5,Online,0,High,B,1
+CLM000663,26,Male,East,Property,14,87542.72,47743.93,1,1,0.032,7,4,1,2,Online,0,Medium,D,1
+CLM000664,71,Male,East,Health,12,7296.54,24468.55,2,1,0.499,8,6,1,9,Agent,0,Very High,D,1
+CLM000665,20,Female,North,Health,17,68834.94,11904.56,0,1,0.883,10,2,1,2,Branch,0,High,B,1
+CLM000666,61,Female,South,Travel,17,26878.33,18152.14,3,0,0.547,2,3,0,1,Branch,1,Medium,B,0
+CLM000667,57,Female,West,Auto,19,13560.41,26644.8,1,1,0.01,6,15,1,2,Branch,1,Low,B,1
+CLM000668,65,Male,North,Property,17,17203.89,41918.12,1,1,0.238,1,3,0,5,Online,1,Very High,C,1
+CLM000669,41,Female,South,Auto,10,15377.28,20860.85,1,0,0.983,8,10,0,12,Branch,0,High,A,0
+CLM000670,21,Female,West,Auto,19,91598.74,38687.93,1,1,0.874,2,6,0,13,Online,1,Medium,C,1
+CLM000671,79,Male,East,Property,15,72989.12,42343.83,2,0,0.793,7,12,0,1,Branch,0,High,A,0
+CLM000672,61,Female,South,Auto,8,8921.81,36905.44,4,0,0.925,3,5,0,13,Branch,0,Low,B,0
+CLM000673,56,Female,West,Health,6,62717.76,35870.84,2,0,0.979,1,0,0,6,Agent,1,Medium,B,0
+CLM000674,27,Female,East,Travel,13,34076.36,22382.28,1,0,0.761,1,22,1,13,Agent,1,Medium,D,0
+CLM000675,54,Male,North,Travel,2,59771.21,44129.81,1,1,0.819,5,12,1,5,Agent,0,Medium,B,1
+CLM000676,42,Male,East,Property,1,55426.69,37501.89,0,1,0.637,8,19,0,12,Online,1,Very High,C,1
+CLM000677,41,Female,North,Life,2,66549.07,25400.67,1,1,0.438,1,26,0,1,Agent,0,Very High,D,1
+CLM000678,43,Male,East,Auto,14,36268.74,12869.44,0,0,0.616,1,29,0,14,Agent,1,Low,A,0
+CLM000679,45,Male,North,Health,8,90289.05,38570.83,1,1,0.212,9,24,1,10,Online,1,Medium,D,1
+CLM000680,60,Male,South,Life,12,90060.46,41020.36,0,0,0.087,9,12,0,6,Branch,0,Very High,A,1
+CLM000681,23,Male,North,Property,15,66615.79,26756,1,1,0.525,6,21,0,10,Branch,0,High,A,1
+CLM000682,77,Male,North,Health,6,29298.3,48648.09,2,0,0.818,1,12,1,9,Online,1,High,A,0
+CLM000683,73,Male,East,Property,9,90779.79,17230.94,1,0,0.794,6,2,1,11,Agent,0,Very High,D,0
+CLM000684,62,Female,East,Health,15,89729.41,44980.55,2,1,0.321,8,1,1,4,Agent,1,Low,A,1
+CLM000685,60,Male,North,Health,10,32736.19,12934,2,0,0.347,4,28,0,5,Agent,1,Low,C,1
+CLM000686,21,Female,North,Travel,18,74699.77,16934.03,1,1,0.808,5,10,1,12,Agent,0,Very High,D,1
+CLM000687,72,Male,West,Auto,2,63744.55,43007.88,1,0,0.752,3,10,0,5,Branch,0,Medium,B,0
+CLM000688,75,Female,East,Auto,11,30441.94,20343.67,0,1,0.79,10,29,1,10,Agent,1,High,A,1
+CLM000689,43,Male,North,Health,10,36197.45,33262.09,0,1,0.025,7,19,0,9,Online,1,Very High,A,1
+CLM000690,51,Female,South,Travel,19,80049.94,42637.43,2,0,0.439,2,11,1,11,Online,0,Very High,B,1
+CLM000691,26,Male,South,Auto,15,70830.28,8121.18,0,0,0.591,3,4,0,3,Branch,1,High,B,1
+CLM000692,54,Male,South,Life,8,57931.97,2240.27,0,0,0.858,4,27,1,11,Online,0,Very High,A,0
+CLM000693,27,Female,North,Travel,4,16937.46,17557.53,1,0,0.238,2,15,0,10,Online,0,Medium,D,1
+CLM000694,26,Female,East,Auto,10,86322.54,28724.27,2,0,1,5,8,1,6,Branch,1,Medium,A,0
+CLM000695,58,Female,North,Auto,12,18246.86,29573.72,2,0,0.465,1,0,0,12,Agent,1,Very High,D,1
+CLM000696,54,Female,East,Life,14,79491.16,14616.74,1,1,0.328,5,27,1,14,Online,1,High,C,1
+CLM000697,39,Female,South,Health,6,80871.04,30368.51,1,1,0.588,7,17,0,7,Agent,0,Medium,B,1
+CLM000698,18,Female,East,Travel,10,28166.76,30144.71,3,0,0.826,6,19,0,13,Online,0,High,D,0
+CLM000699,22,Female,West,Travel,16,29272.38,23635.67,0,0,0.527,10,2,0,11,Agent,1,Very High,A,1
+CLM000700,48,Male,North,Travel,8,95833.3,40996.16,0,0,0.18,6,29,0,1,Online,0,Medium,C,1
+CLM000701,37,Male,North,Health,1,51359.71,40473.04,0,1,0.936,3,8,1,7,Branch,1,Low,D,1
+CLM000702,27,Male,North,Life,6,77252.65,46640.39,0,1,0.197,10,15,1,1,Agent,0,Very High,B,1
+CLM000703,25,Female,West,Auto,12,9811.96,46611.45,2,0,0.106,5,10,1,4,Branch,0,High,B,1
+CLM000704,35,Female,North,Property,9,12994.39,8764.03,0,0,0.416,4,28,0,6,Agent,1,Low,B,1
+CLM000705,21,Male,South,Property,17,93217.55,11724.55,2,0,0.628,9,7,0,7,Online,1,Medium,B,0
+CLM000706,73,Female,East,Health,10,95818.9,45495.78,1,0,0.315,2,15,0,12,Online,0,Very High,B,1
+CLM000707,52,Male,East,Travel,2,73551,21661.62,2,1,0.486,10,27,0,9,Online,0,Low,B,1
+CLM000708,58,Female,West,Property,10,54030.35,4218.58,0,1,0.207,1,15,0,2,Agent,0,Low,A,1
+CLM000709,78,Female,North,Life,15,48227.77,25778.81,1,0,0.807,10,25,1,2,Branch,1,High,C,0
+CLM000710,42,Male,West,Property,8,20757.59,11870.96,1,0,0.356,4,16,1,3,Agent,0,Low,C,1
+CLM000711,79,Female,South,Life,11,7899.38,45215.13,2,1,0.379,8,5,0,14,Agent,1,High,C,1
+CLM000712,65,Female,West,Life,4,21817.34,2898.98,1,1,0.649,10,5,1,13,Online,0,Medium,D,1
+CLM000713,45,Male,South,Health,17,6292.41,8366.78,1,0,0.383,6,12,1,9,Branch,0,High,B,1
+CLM000714,31,Male,South,Auto,1,5649.48,33813.9,1,0,0.711,2,16,1,11,Agent,1,Low,B,0
+CLM000715,69,Female,East,Health,16,82120.42,851.28,1,0,0.703,1,18,1,1,Agent,1,Very High,D,0
+CLM000716,76,Male,South,Property,14,87196.48,46687.34,2,0,0.199,6,13,1,9,Online,1,Medium,A,1
+CLM000717,61,Male,South,Auto,19,75118.55,22084.33,0,1,0.721,9,13,0,2,Branch,0,Low,B,1
+CLM000718,40,Male,South,Travel,8,4987.85,43931.66,0,1,0.855,1,21,0,6,Online,1,Very High,A,1
+CLM000719,31,Female,North,Auto,18,41044.62,44865.94,1,0,0.236,9,26,0,1,Agent,0,Very High,D,1
+CLM000720,24,Male,South,Property,15,39331.14,34656.28,1,1,0.676,5,2,0,10,Branch,0,Medium,B,1
+CLM000721,56,Female,South,Travel,16,71203.59,30529.75,0,1,0.073,4,16,1,4,Agent,0,Low,B,1
+CLM000722,35,Female,West,Auto,8,79473.59,47999.81,1,1,0.984,1,23,1,3,Online,1,Low,B,1
+CLM000723,58,Female,South,Life,9,58992.05,14572.27,2,1,0.449,5,19,0,12,Online,0,Medium,D,1
+CLM000724,42,Male,North,Health,18,2780.83,25535.76,1,1,0.785,1,16,0,11,Agent,1,Medium,A,1
+CLM000725,22,Female,West,Travel,9,93057.18,26599.13,1,0,0.455,1,25,1,9,Online,1,Very High,B,1
+CLM000726,32,Female,West,Travel,14,68032.28,26251.41,1,0,0.034,2,1,0,10,Branch,0,Low,D,1
+CLM000727,40,Male,East,Property,4,43811.28,18569.85,1,0,0.183,1,16,1,1,Online,0,Low,C,1
+CLM000728,40,Female,East,Auto,13,41275.44,13261.64,1,1,0.59,6,14,1,9,Online,0,Low,A,1
+CLM000729,77,Male,West,Auto,1,75844.42,24358.32,0,1,0.31,5,29,0,2,Branch,0,High,D,1
+CLM000730,55,Female,North,Auto,12,96806.26,14133.78,0,1,0.996,6,19,0,7,Agent,1,High,C,1
+CLM000731,58,Female,East,Life,7,88267.1,12614.88,1,0,0.408,5,19,0,8,Agent,1,Very High,B,1
+CLM000732,21,Female,West,Auto,13,2069.04,16681.22,0,1,0.784,3,25,1,14,Agent,0,Very High,C,1
+CLM000733,33,Female,East,Property,18,48391.47,3955.07,1,1,0.554,7,22,1,6,Branch,1,Medium,A,1
+CLM000734,60,Male,West,Auto,7,62999.67,43409.33,3,0,0.265,9,2,0,8,Online,1,Medium,D,0
+CLM000735,23,Female,North,Auto,19,8637.29,25529.99,0,0,0.281,2,14,1,3,Agent,0,Low,A,1
+CLM000736,79,Male,West,Life,5,32128.98,23359.42,1,1,0.629,7,18,0,11,Agent,0,Low,A,1
+CLM000737,73,Female,South,Travel,13,75867.13,7035.74,1,0,0.75,3,23,1,13,Online,1,Low,D,0
+CLM000738,63,Female,East,Life,10,21842.32,38636.67,0,1,0.41,4,9,0,3,Online,0,Medium,D,1
+CLM000739,19,Female,North,Auto,8,50691.62,19306.25,1,1,0.758,7,2,0,4,Branch,0,High,B,1
+CLM000740,54,Male,South,Life,18,93311.95,38424.78,3,0,0.934,5,22,0,7,Online,0,Low,C,0
+CLM000741,48,Male,North,Auto,2,94411.76,21306.5,0,1,0.071,6,5,0,4,Online,0,High,D,1
+CLM000742,28,Female,West,Property,7,11015.22,5817.01,2,0,0.541,10,21,1,8,Branch,0,Medium,A,1
+CLM000743,26,Male,North,Life,18,57378.17,27546.33,1,0,0.046,9,26,0,12,Agent,1,High,C,1
+CLM000744,74,Female,South,Life,15,87011.31,30851.93,2,1,0.532,5,5,1,11,Online,0,Very High,D,1
+CLM000745,32,Male,East,Auto,1,81428.95,8563.68,3,0,0.051,10,15,0,13,Agent,0,Low,A,0
+CLM000746,28,Female,East,Health,6,81883.05,16626.09,0,1,0.745,5,14,0,2,Branch,1,High,C,1
+CLM000747,31,Female,West,Life,4,89668.77,22559.12,0,1,0.023,10,17,0,14,Agent,0,Medium,C,1
+CLM000748,77,Female,West,Life,1,99267.17,38298.35,1,0,0.881,5,8,1,9,Online,0,Very High,A,0
+CLM000749,65,Female,North,Property,1,94894.09,14533.61,0,1,0.078,9,0,0,1,Branch,1,Medium,B,1
+CLM000750,59,Female,West,Travel,11,16693.5,48924.14,0,1,0.802,1,27,1,4,Branch,0,Low,C,1
+CLM000751,34,Male,East,Health,18,8126.1,33663.51,1,1,0.402,5,13,1,1,Agent,1,High,A,1
+CLM000752,28,Male,West,Travel,16,7574.13,18447.87,1,1,0.868,1,29,0,12,Agent,0,Medium,C,1
+CLM000753,32,Male,South,Property,10,20185.12,3866.51,1,1,0.573,9,26,0,3,Branch,0,Medium,B,1
+CLM000754,78,Male,East,Auto,7,24171.72,17939.29,1,0,0.534,4,3,1,6,Online,0,Medium,B,1
+CLM000755,34,Female,South,Health,9,27509.66,25872.52,2,0,0.329,1,2,1,5,Online,1,Low,D,1
+CLM000756,74,Male,North,Property,13,98507.98,38143,2,1,0.454,4,10,0,2,Agent,0,High,D,1
+CLM000757,57,Female,West,Auto,13,49831.5,18973.76,1,0,0.674,8,10,1,10,Branch,0,High,D,0
+CLM000758,74,Male,South,Health,13,17197.23,13519.78,1,0,0.502,6,17,0,7,Branch,1,Very High,D,1
+CLM000759,67,Male,East,Property,14,29005.71,31137.29,1,1,0.722,5,10,1,3,Branch,0,Medium,D,1
+CLM000760,76,Male,West,Travel,9,69274.21,1409.86,0,0,0.151,6,21,1,5,Branch,0,Low,A,1
+CLM000761,53,Male,West,Life,17,50073.39,25901.92,0,1,0.447,1,20,0,5,Online,1,High,C,1
+CLM000762,35,Female,South,Life,17,30587.46,43265.76,0,1,0.616,5,3,1,12,Agent,0,Medium,C,1
+CLM000763,69,Female,East,Travel,17,37403.14,23724.29,1,1,0.666,2,0,0,5,Online,1,Very High,D,1
+CLM000764,48,Male,West,Travel,3,84452.05,40969.48,0,0,0.005,4,28,0,10,Agent,1,Very High,C,1
+CLM000765,21,Female,South,Life,1,75607.4,22809.95,0,0,0.842,9,22,1,5,Online,0,Medium,A,0
+CLM000766,60,Female,South,Life,3,89368.52,10157.89,1,0,0.999,3,0,1,13,Agent,1,Very High,B,0
+CLM000767,36,Male,South,Property,17,84709.57,49816.69,1,1,0.557,6,16,1,7,Online,0,Medium,D,1
+CLM000768,55,Female,South,Life,5,29850.1,35059.61,0,1,0.02,1,12,1,10,Branch,1,High,D,1
+CLM000769,27,Female,East,Life,18,1792.81,27437.07,0,0,0.439,7,12,1,13,Branch,0,Low,D,1
+CLM000770,51,Male,South,Health,3,96180.34,21334.38,4,1,0.861,8,20,0,1,Online,0,High,D,0
+CLM000771,66,Male,West,Travel,4,67206.57,11036.08,1,0,0.792,10,25,0,4,Agent,0,High,C,0
+CLM000772,71,Female,East,Health,8,56586.32,44244.8,2,0,0.77,2,29,0,4,Agent,1,Low,C,0
+CLM000773,29,Male,South,Travel,19,78608.93,37543.86,4,1,0.585,8,8,0,2,Agent,0,High,D,1
+CLM000774,65,Female,North,Property,15,12807.9,4690.11,0,0,0.84,5,6,1,4,Branch,1,High,D,0
+CLM000775,59,Male,South,Travel,1,29949.09,41622.99,0,1,0.418,9,9,0,6,Agent,0,Very High,A,1
+CLM000776,77,Male,South,Travel,3,94239.83,12302.15,0,1,0.409,4,7,0,5,Online,0,High,C,1
+CLM000777,74,Female,East,Life,14,51281.84,9837.3,1,0,0.293,8,7,1,9,Branch,1,Very High,C,1
+CLM000778,77,Female,East,Life,14,37349.79,2366.02,1,1,0.169,4,0,1,3,Branch,0,Very High,D,1
+CLM000779,39,Male,South,Health,17,12895.77,563.58,1,1,0.731,1,0,1,6,Online,0,Medium,C,1
+CLM000780,72,Male,South,Auto,17,85167.02,2868.02,0,0,0.81,8,2,1,9,Agent,1,Low,A,0
+CLM000781,22,Male,West,Life,18,18427.93,15576.48,2,0,0.848,6,8,0,14,Online,0,Low,D,0
+CLM000782,70,Male,North,Travel,6,90289.69,9352.63,1,0,0.321,1,4,1,11,Branch,0,Medium,A,1
+CLM000783,30,Female,East,Auto,9,57020.44,43121.15,1,1,0.651,9,8,1,2,Online,0,High,D,1
+CLM000784,56,Male,South,Life,2,5054.2,29055.72,4,0,0.056,6,9,0,13,Online,1,Low,A,0
+CLM000785,58,Female,East,Property,17,27006.64,22195.78,1,0,0.685,8,17,0,11,Agent,1,High,D,0
+CLM000786,60,Male,South,Life,17,75488.51,40709.71,0,0,0.669,9,26,1,7,Branch,0,Very High,D,0
+CLM000787,41,Female,East,Property,9,30602.26,42170.36,1,0,0.693,5,14,0,13,Branch,1,Medium,A,0
+CLM000788,62,Female,East,Travel,18,97456.19,16451.89,1,0,0.523,5,12,0,7,Agent,1,High,B,1
+CLM000789,20,Female,North,Health,15,58383.61,9036.1,1,0,0.272,1,27,1,8,Branch,0,Medium,C,1
+CLM000790,46,Female,West,Life,19,88229.41,4081.68,2,0,0.414,10,15,1,1,Online,1,Very High,D,1
+CLM000791,30,Female,North,Property,14,75328.23,49835.82,2,1,0.762,3,8,0,13,Agent,1,Medium,A,1
+CLM000792,72,Female,South,Property,16,45280.02,12234.98,0,0,0.223,10,1,0,13,Branch,0,Very High,D,1
+CLM000793,68,Male,South,Property,8,93152.45,27925.89,0,1,0.903,8,5,1,7,Agent,0,Medium,C,1
+CLM000794,34,Male,West,Auto,8,54696.27,46717.11,0,0,0.001,10,1,1,6,Branch,0,High,C,1
+CLM000795,38,Female,West,Auto,8,72970.81,26063.99,0,1,0.674,8,25,0,8,Online,0,Medium,B,1
+CLM000796,49,Female,North,Property,12,45030.83,19180.69,0,1,0.662,9,11,0,4,Branch,0,Very High,C,1
+CLM000797,45,Female,South,Travel,14,56938.22,26210.19,0,0,0.603,2,19,1,8,Online,0,Medium,A,0
+CLM000798,72,Male,South,Health,7,86802.44,46843.9,1,0,0.84,7,29,1,13,Agent,1,High,B,0
+CLM000799,18,Female,North,Auto,3,92450.57,15278.12,0,0,0.631,3,12,0,10,Online,1,Medium,A,0
+CLM000800,23,Female,South,Travel,15,88041.23,2025.82,2,1,0.5,5,0,0,3,Agent,0,High,D,1
+CLM000801,77,Female,West,Health,9,60754.54,47754.69,0,1,0.856,9,11,0,14,Agent,0,Low,B,1
+CLM000802,33,Male,East,Property,10,45932.99,40132.87,0,1,0.381,2,11,0,3,Online,1,Very High,B,1
+CLM000803,74,Male,East,Property,18,61894.04,21053.08,1,0,0.587,2,0,0,13,Online,0,Low,B,1
+CLM000804,60,Female,West,Auto,2,95370.48,31736.19,1,0,0.855,3,10,0,12,Branch,0,Low,B,0
+CLM000805,21,Female,North,Life,18,20846.44,5205.3,1,0,0.158,1,2,0,6,Branch,1,Medium,D,1
+CLM000806,34,Female,East,Travel,3,41703.74,23818.64,1,1,0.68,3,21,1,2,Online,0,Low,A,1
+CLM000807,62,Female,West,Travel,9,31018.74,1175.17,0,1,0.296,5,1,1,7,Online,0,High,A,1
+CLM000808,57,Male,North,Auto,16,20472.17,7250.37,0,1,0.627,6,27,1,12,Branch,1,Very High,C,1
+CLM000809,67,Male,South,Travel,7,36426.27,17618.51,2,1,0.892,2,14,1,13,Branch,1,Low,D,1
+CLM000810,65,Male,North,Health,6,65075.01,19658.98,0,0,0.094,8,27,0,13,Branch,1,Very High,B,1
+CLM000811,52,Female,North,Auto,15,40014.28,10897.34,1,0,0.504,7,2,1,13,Online,1,Very High,A,1
+CLM000812,52,Female,North,Health,9,70899.75,42514,1,0,0.577,3,18,0,7,Agent,0,Medium,A,1
+CLM000813,61,Male,West,Auto,16,31646.37,2710.73,1,0,0.806,8,5,0,3,Agent,0,High,D,0
+CLM000814,18,Male,North,Property,9,61293.87,34146.43,1,0,0.644,6,0,0,12,Agent,0,Medium,C,0
+CLM000815,49,Male,West,Property,17,32284.47,2358.84,0,0,0.106,5,14,1,1,Branch,1,High,D,1
+CLM000816,31,Male,South,Life,15,33089.38,36545.08,0,0,0.113,6,14,1,8,Agent,0,High,D,1
+CLM000817,65,Female,South,Health,17,90224.66,32229.8,0,1,0.141,10,22,0,13,Branch,1,Medium,D,1
+CLM000818,53,Female,East,Life,15,8819.08,8984.22,0,0,0.826,2,27,0,14,Agent,0,Very High,A,0
+CLM000819,75,Female,South,Health,7,59059.49,38283.73,1,0,0.026,10,18,1,5,Branch,0,High,B,1
+CLM000820,47,Female,North,Life,11,17002.13,32033.85,1,0,0.757,10,12,0,6,Agent,0,Medium,D,0
+CLM000821,22,Male,East,Travel,8,69141.01,10944.83,0,1,0.782,3,28,1,8,Agent,0,High,A,1
+CLM000822,48,Male,North,Health,12,23614.16,32911.4,1,1,0.273,3,3,0,9,Online,1,Medium,A,1
+CLM000823,37,Male,North,Property,11,31046.13,36904.11,0,1,0.102,7,23,1,4,Online,0,Low,A,1
+CLM000824,19,Female,West,Life,14,4931.41,34828.74,1,0,0.522,7,7,1,6,Branch,0,High,A,1
+CLM000825,71,Female,South,Life,10,89515.05,23088.13,0,1,0.801,9,19,0,14,Branch,1,Low,A,1
+CLM000826,54,Male,West,Health,7,77879.19,1028.28,1,1,0.378,9,28,0,5,Agent,1,Low,C,1
+CLM000827,20,Female,East,Health,10,85655.83,13933.38,1,0,0.268,2,25,0,3,Branch,1,High,A,1
+CLM000828,50,Male,East,Health,3,71044.76,5487.27,1,1,0.127,9,24,1,12,Online,0,Low,A,1
+CLM000829,30,Male,West,Auto,8,36477.89,38803.14,0,0,0.328,7,22,1,4,Online,1,Medium,B,1
+CLM000830,79,Female,North,Life,9,93867.33,20138.02,0,0,0.333,1,19,1,7,Agent,1,Very High,D,1
+CLM000831,28,Male,South,Auto,9,73539.62,21034.92,0,1,0.73,10,14,1,13,Branch,0,Very High,C,1
+CLM000832,40,Male,West,Travel,18,77990.36,18392.53,0,1,0.448,3,0,0,6,Agent,1,High,C,1
+CLM000833,33,Female,West,Travel,16,86404.84,44270.14,0,0,0.976,8,28,0,4,Branch,1,Medium,B,0
+CLM000834,78,Female,East,Travel,11,12232.76,37537.57,2,0,0.801,7,9,0,9,Agent,1,Very High,D,0
+CLM000835,53,Male,North,Travel,14,77270.77,37244.36,0,1,0.974,1,13,1,4,Branch,0,Low,B,1
+CLM000836,19,Female,North,Travel,16,24976.16,36689.6,3,0,0.655,9,29,0,11,Online,1,Medium,C,0
+CLM000837,74,Male,East,Life,9,24127.29,43434.05,1,1,0.374,6,4,0,4,Branch,0,Medium,A,1
+CLM000838,26,Male,West,Travel,16,41010.69,34702.09,0,1,0.403,10,5,1,1,Online,0,Medium,C,1
+CLM000839,75,Female,South,Auto,15,31237.84,6164.69,0,0,0.672,4,7,0,8,Agent,0,High,A,0
+CLM000840,69,Female,South,Health,6,87123.03,25227.66,1,0,0.48,9,16,0,1,Branch,0,High,D,1
+CLM000841,47,Male,West,Life,19,6174.6,18477.86,0,0,0.195,4,27,1,10,Online,1,High,A,1
+CLM000842,36,Female,North,Health,6,64171.18,15273.31,1,0,0.04,9,14,0,9,Agent,0,High,D,1
+CLM000843,36,Female,North,Auto,12,34703.67,11579,0,0,0.205,10,27,1,12,Branch,1,Low,D,1
+CLM000844,34,Male,East,Life,17,12904.85,34912.22,0,1,0.677,8,15,0,6,Online,0,High,B,1
+CLM000845,52,Female,South,Auto,10,11981.1,46579.46,1,1,0.947,9,1,0,10,Online,1,Very High,D,1
+CLM000846,37,Male,South,Property,12,92728.23,49058.82,1,1,0.689,5,9,0,10,Agent,0,Very High,B,1
+CLM000847,71,Male,East,Health,15,25671.17,8574.18,0,0,0.582,6,26,1,4,Agent,0,Low,D,1
+CLM000848,41,Female,North,Property,5,79897.8,22867.52,0,1,0.153,1,17,1,8,Branch,1,Very High,B,1
+CLM000849,19,Male,West,Life,5,33962.07,20881.51,0,0,0.591,3,19,0,12,Online,1,Very High,D,1
+CLM000850,77,Male,South,Auto,4,21219.62,35949.36,1,1,0.181,7,24,1,5,Online,1,High,D,1
+CLM000851,79,Female,North,Health,16,76081.96,9581.17,0,0,0.014,7,11,1,5,Branch,1,Very High,D,1
+CLM000852,58,Female,East,Auto,14,34905.05,34953.55,1,0,0.521,10,18,1,1,Agent,0,High,A,1
+CLM000853,62,Female,South,Travel,9,34220.16,1809.12,0,0,0.329,2,18,0,13,Branch,1,Very High,B,1
+CLM000854,78,Female,North,Auto,10,8376.54,1388.91,1,1,0.189,10,2,0,8,Online,1,High,B,1
+CLM000855,19,Male,North,Health,10,3007.75,10784.65,0,1,0.24,5,11,0,12,Online,1,Medium,C,1
+CLM000856,55,Male,East,Health,19,76071.96,49661.13,1,1,0.64,10,17,0,10,Agent,1,Very High,D,1
+CLM000857,40,Male,East,Auto,12,8787.54,19380.06,0,1,0.131,8,7,0,14,Branch,0,Medium,B,1
+CLM000858,47,Female,West,Life,12,67579.72,10940.9,2,1,0.619,5,12,1,2,Branch,0,Medium,A,1
+CLM000859,21,Female,North,Travel,18,49150.84,47077.81,1,1,0.554,7,25,0,1,Online,0,Low,C,1
+CLM000860,65,Male,East,Health,7,4249.72,40652.55,0,0,0.83,4,8,1,1,Agent,1,Low,A,0
+CLM000861,23,Female,East,Travel,6,89323.14,17727.33,3,1,0.453,5,3,1,12,Online,1,Low,C,1
+CLM000862,58,Female,South,Property,19,62216.28,39598.3,0,1,0.689,9,14,1,3,Branch,1,Low,C,1
+CLM000863,47,Female,North,Auto,3,28457.33,15041.21,0,0,0.515,8,18,0,12,Online,0,Very High,A,1
+CLM000864,47,Male,South,Life,13,67411.84,28337.73,1,0,0.767,8,18,0,4,Agent,0,High,D,0
+CLM000865,26,Female,South,Health,8,58188.48,3694.53,3,1,0.85,10,13,0,13,Agent,1,High,C,0
+CLM000866,23,Female,South,Life,12,24909.12,684.12,1,0,0.997,3,22,0,12,Agent,1,Low,C,0
+CLM000867,69,Female,North,Life,11,32500.56,44442.36,1,0,0.473,10,14,1,11,Agent,1,Medium,B,1
+CLM000868,53,Female,West,Auto,13,70099.21,13782.82,0,0,0.03,6,10,0,8,Online,0,Very High,B,1
+CLM000869,57,Female,South,Life,13,42573.93,25111.52,1,0,0.669,5,12,0,12,Online,0,Very High,C,0
+CLM000870,59,Female,West,Life,14,69221.8,9393.13,1,0,0.786,7,14,1,1,Online,0,Medium,B,0
+CLM000871,68,Male,South,Travel,15,94553.49,22356.59,1,0,0.204,7,12,0,8,Branch,0,Medium,D,1
+CLM000872,71,Male,South,Travel,7,99564.82,40275.32,0,0,0.295,6,22,0,12,Online,1,Low,B,1
+CLM000873,33,Female,South,Health,8,17939.15,22458.19,2,1,0.654,6,12,0,12,Agent,0,Very High,D,1
+CLM000874,41,Female,West,Travel,12,72338.06,46640.63,0,1,0.514,10,11,1,4,Online,0,Medium,A,1
+CLM000875,57,Male,South,Health,1,94172.42,44981.52,3,0,0.869,3,14,0,6,Branch,1,High,B,0
+CLM000876,27,Male,South,Health,6,69394.5,33423.45,0,0,0.36,8,28,0,5,Agent,0,Low,D,1
+CLM000877,67,Male,West,Travel,7,85862.1,22878.38,0,1,0.414,5,17,0,4,Online,0,Very High,D,1
+CLM000878,22,Female,South,Auto,5,49424.27,8557.42,1,1,0.698,4,20,0,5,Online,1,Medium,A,1
+CLM000879,42,Female,North,Travel,17,2785.17,45522.99,1,1,0.324,4,20,1,2,Agent,1,Medium,B,1
+CLM000880,50,Male,North,Auto,11,67745.02,29499.68,1,1,0.803,7,11,0,12,Agent,1,Very High,C,1
+CLM000881,32,Female,South,Property,17,36389.49,48001.49,1,1,0.563,10,3,0,7,Agent,0,Low,D,1
+CLM000882,58,Female,West,Life,11,89844.49,8941.25,0,0,0.919,5,4,0,9,Branch,1,Low,A,0
+CLM000883,33,Female,West,Health,2,18296.15,22477.42,0,1,0.07,5,17,1,5,Online,0,Very High,A,1
+CLM000884,37,Female,North,Auto,3,16705.08,11182.31,1,0,0.805,7,22,1,9,Agent,0,Very High,D,0
+CLM000885,22,Female,East,Property,3,31658.51,27127.02,2,0,0.543,5,0,0,1,Online,1,Very High,C,1
+CLM000886,18,Male,South,Property,10,42417.94,32941.47,2,0,0.25,9,9,1,9,Branch,0,Very High,A,1
+CLM000887,40,Male,South,Life,19,99323.21,45595.28,0,1,0.981,10,26,0,14,Branch,0,Medium,D,1
+CLM000888,78,Female,East,Property,3,18819.96,49802.63,1,1,0.8,9,27,1,7,Online,1,Medium,D,1
+CLM000889,36,Male,West,Health,1,24768.39,23628.45,3,0,0.457,10,26,1,13,Agent,1,High,B,0
+CLM000890,54,Male,North,Health,17,55795.54,27557.97,1,0,0.589,10,11,0,11,Branch,1,Very High,C,1
+CLM000891,68,Male,West,Life,2,50455.37,48056.04,1,1,0.897,10,15,1,13,Branch,1,Medium,D,1
+CLM000892,52,Female,North,Auto,19,1811.63,48702.13,1,1,0.172,7,22,1,14,Agent,0,Medium,B,1
+CLM000893,45,Male,South,Health,2,51731.54,11443.4,0,0,0.326,10,18,1,1,Agent,1,High,C,1
+CLM000894,36,Female,East,Auto,13,1914.92,7619.81,2,1,0.585,4,21,1,7,Online,0,Medium,B,1
+CLM000895,56,Male,East,Health,8,43373.92,9808.9,1,1,0.519,1,25,0,7,Agent,1,Very High,D,1
+CLM000896,25,Male,West,Auto,9,57766.76,23823.04,1,0,0.648,5,12,0,6,Online,1,Very High,D,0
+CLM000897,60,Female,West,Health,2,80791.04,36317.24,1,1,0.847,7,0,1,13,Branch,1,Low,B,1
+CLM000898,54,Female,South,Health,2,82542.27,45082.97,0,0,0.943,3,24,0,4,Online,1,Medium,A,0
+CLM000899,41,Female,North,Auto,8,43043.22,33037.28,3,1,0.391,9,10,1,13,Online,0,High,C,1
+CLM000900,64,Male,North,Health,15,42457.14,30168.5,0,0,0.031,9,19,1,3,Agent,0,Medium,B,1
+CLM000901,20,Female,South,Property,12,71080.19,46612.47,0,1,0.777,6,9,0,4,Branch,1,High,A,1
+CLM000902,73,Male,East,Travel,7,42346.26,37110.59,0,0,0.806,9,19,1,11,Agent,1,Very High,A,0
+CLM000903,38,Female,North,Travel,14,13590.94,39702.07,3,1,0.411,7,5,0,10,Agent,0,Medium,A,1
+CLM000904,26,Female,East,Life,10,77387.3,14289.11,1,0,0.659,3,14,1,7,Agent,0,Medium,B,0
+CLM000905,59,Male,North,Life,5,9689.52,36745.78,2,1,0.437,8,1,1,2,Branch,0,Low,D,1
+CLM000906,75,Female,West,Life,8,76597.91,24092.71,0,0,0.992,8,23,1,6,Agent,1,High,C,0
+CLM000907,22,Male,West,Life,16,16378.99,26335.78,0,1,0.087,1,0,1,4,Branch,0,Very High,D,1
+CLM000908,64,Male,South,Travel,3,58128.28,18183.48,0,1,0.993,8,7,0,6,Online,1,Low,A,1
+CLM000909,27,Male,West,Health,6,39156.69,21126.39,2,1,0.72,2,12,0,7,Branch,0,Medium,D,1
+CLM000910,70,Female,North,Travel,9,78550.33,40014.51,2,0,0.083,4,17,0,3,Agent,1,Medium,A,1
+CLM000911,35,Male,East,Travel,10,65608.73,49615.97,2,0,0.92,8,22,0,3,Online,0,High,C,0
+CLM000912,45,Female,North,Health,8,45968.55,5685.75,4,1,0.649,7,17,0,13,Branch,1,High,C,0
+CLM000913,64,Female,North,Auto,11,91763.85,5372.52,0,1,0.915,1,12,1,9,Online,0,High,C,1
+CLM000914,50,Female,West,Health,6,81232.86,16322.78,0,0,0.311,8,3,1,2,Branch,0,Medium,D,1
+CLM000915,48,Male,West,Life,9,30521.29,42515.17,1,0,0.075,7,11,0,2,Agent,0,Very High,D,1
+CLM000916,79,Male,East,Life,19,75788.29,39135.83,2,1,0.554,10,17,1,7,Branch,1,High,A,1
+CLM000917,73,Male,East,Travel,8,22348.34,43686.91,1,0,0.829,1,12,0,12,Online,1,Medium,C,0
+CLM000918,42,Male,East,Property,16,61906.27,2391.04,1,1,0.594,6,24,0,14,Branch,1,Medium,D,1
+CLM000919,60,Male,North,Travel,2,23514.75,19989.1,0,1,0.609,4,7,1,13,Branch,1,High,A,1
+CLM000920,57,Female,West,Health,4,75823.33,18639.62,1,1,0.81,7,18,1,5,Agent,0,Medium,C,1
+CLM000921,30,Female,East,Auto,16,58118.96,12664.64,1,1,0.565,5,28,1,2,Branch,1,High,B,1
+CLM000922,39,Male,East,Health,15,61310.34,42648.48,1,1,0.954,9,28,0,5,Online,0,Low,D,1
+CLM000923,72,Male,West,Life,17,43130.77,9745.65,2,0,0.43,9,11,1,12,Online,1,Medium,C,1
+CLM000924,30,Female,East,Travel,11,33949.02,32366.65,2,0,0.011,3,11,1,2,Online,0,Low,B,1
+CLM000925,34,Male,North,Property,4,64589.65,23203.57,1,1,0.952,1,7,0,4,Agent,1,Low,A,1
+CLM000926,49,Female,North,Life,17,53010.69,45722.11,1,0,0.532,9,19,0,11,Online,0,High,D,1
+CLM000927,40,Male,North,Life,17,92822.85,38153.65,0,0,0.914,6,26,1,1,Branch,1,High,A,0
+CLM000928,63,Female,South,Travel,19,68705.44,14980.75,2,1,0.873,2,3,1,6,Online,1,Medium,C,1
+CLM000929,24,Female,East,Property,19,5108.43,6691.37,2,1,0.577,6,12,1,10,Branch,0,Low,C,1
+CLM000930,49,Male,South,Travel,18,43543.96,7344.13,0,1,0.664,6,25,0,14,Online,1,Low,A,1
+CLM000931,53,Male,East,Life,16,92828.57,49589.12,1,1,0.997,1,20,1,6,Agent,0,High,B,1
+CLM000932,79,Female,South,Auto,15,58523.6,15134.1,2,1,0.178,6,1,1,13,Online,1,High,C,1
+CLM000933,64,Female,North,Auto,17,85908.38,18549.68,1,1,0.66,8,6,1,12,Online,0,Very High,A,1
+CLM000934,32,Male,West,Health,6,21245.93,36269.28,1,0,0.441,5,24,0,6,Online,0,Very High,D,1
+CLM000935,77,Male,West,Life,18,61603.71,11681.13,0,1,0.702,5,24,1,12,Agent,0,High,C,1
+CLM000936,76,Male,North,Property,2,52447.12,40807.9,2,1,0.188,2,23,0,13,Branch,0,Medium,A,1
+CLM000937,23,Female,North,Property,18,72022.95,11521.14,1,0,0.042,8,29,1,3,Agent,0,Very High,D,1
+CLM000938,25,Male,South,Auto,17,25807.58,27755.36,4,1,0.71,4,16,0,4,Branch,0,High,C,0
+CLM000939,77,Female,South,Travel,14,27587.16,26280.37,2,1,0.481,2,7,1,10,Agent,1,Very High,D,1
+CLM000940,59,Male,North,Property,6,51635.29,48101.2,1,0,0.063,2,1,0,1,Online,1,High,D,1
+CLM000941,61,Female,South,Travel,4,82013.21,31899.3,0,0,0.656,5,24,0,12,Agent,0,Medium,A,0
+CLM000942,51,Female,North,Travel,19,64155.12,45494.55,0,0,0.96,10,16,0,11,Branch,1,Low,C,0
+CLM000943,18,Female,West,Life,14,27323.63,7037.31,1,0,0.622,4,2,0,10,Agent,0,Medium,B,0
+CLM000944,68,Male,West,Property,3,1848.35,46765.27,1,1,0.181,8,1,0,14,Online,1,High,B,1
+CLM000945,68,Female,West,Life,1,31772.18,11730.85,2,1,0.843,9,29,1,11,Agent,1,Medium,B,1
+CLM000946,29,Male,West,Health,14,16151.22,27119.74,2,1,0.875,3,16,0,14,Branch,1,Very High,C,1
+CLM000947,20,Male,West,Auto,12,79398.75,34504.15,0,1,0.942,3,18,1,11,Agent,1,Very High,A,1
+CLM000948,55,Male,West,Travel,8,91168.7,27074.98,2,1,0.532,8,3,1,11,Agent,0,Low,A,1
+CLM000949,60,Male,South,Life,12,89139.95,20429.27,0,0,0.476,3,19,1,7,Branch,1,Low,B,1
+CLM000950,20,Male,West,Life,6,37350.21,36857.11,1,0,0.69,2,12,1,3,Agent,0,Very High,D,0
+CLM000951,39,Male,South,Travel,14,24461.05,7388.42,0,1,0.308,8,27,1,7,Agent,0,High,D,1
+CLM000952,64,Female,North,Life,19,77310.64,15555.69,1,0,0.775,6,19,0,13,Online,0,Very High,B,0
+CLM000953,76,Female,North,Travel,16,63695.06,34525.8,2,0,0.146,2,25,1,5,Branch,0,Low,A,1
+CLM000954,33,Female,North,Travel,9,72227.55,19364.48,2,1,0.08,4,5,0,14,Online,0,Medium,D,1
+CLM000955,65,Female,East,Property,14,73497.78,42392.74,1,0,0.222,2,0,0,6,Agent,0,Very High,D,1
+CLM000956,22,Male,South,Property,16,80340.26,43847.99,0,0,0.265,5,26,0,8,Online,1,Medium,D,1
+CLM000957,54,Female,West,Auto,2,76794.88,9385.26,1,0,0.269,5,5,1,11,Agent,0,Medium,B,1
+CLM000958,42,Male,North,Health,11,60614.71,45257.46,1,0,0.356,4,17,0,6,Online,1,Very High,D,1
+CLM000959,19,Male,North,Auto,17,46773.82,49464.69,2,1,0.81,1,10,0,13,Branch,1,Very High,D,1
+CLM000960,74,Female,South,Property,6,72487.65,18768.28,0,1,0.344,8,28,0,9,Branch,0,Very High,D,1
+CLM000961,73,Female,East,Auto,4,25864.68,19454.01,1,1,0.856,10,7,0,7,Online,0,Very High,A,1
+CLM000962,43,Female,South,Life,12,79023.78,4372.98,0,1,0.687,7,18,0,6,Agent,0,Very High,C,1
+CLM000963,41,Male,North,Life,18,7870.14,2976.77,2,1,0.443,7,7,1,8,Agent,0,High,A,1
+CLM000964,29,Female,North,Auto,11,25422.15,4239.95,2,0,0.012,9,22,0,1,Branch,0,High,D,1
+CLM000965,43,Male,North,Auto,16,88031.91,2828.43,0,1,0.339,5,20,1,5,Agent,0,Low,C,1
+CLM000966,40,Male,East,Life,7,63743,5164.9,0,0,0.54,4,23,0,3,Online,1,Very High,D,1
+CLM000967,20,Female,East,Property,17,56429.42,15053.17,0,0,0.407,1,20,1,5,Agent,0,High,C,1
+CLM000968,55,Male,North,Life,17,70469.65,4799.71,0,0,0.468,3,1,1,14,Branch,1,High,C,1
+CLM000969,23,Male,West,Life,7,92511.08,26114.32,1,0,0.949,5,27,0,5,Online,1,Low,C,0
+CLM000970,65,Male,East,Property,18,83038.05,21903.62,1,0,0.291,1,15,0,6,Online,0,Medium,A,1
+CLM000971,37,Female,East,Auto,16,1089.68,11876.39,1,0,0.238,7,29,1,13,Branch,0,High,C,1
+CLM000972,61,Female,North,Health,14,71890.24,48543.38,0,1,0.888,6,21,1,11,Branch,1,Medium,B,1
+CLM000973,77,Female,East,Auto,17,67647.22,4091.08,1,1,0.02,1,3,1,10,Agent,1,Medium,D,1
+CLM000974,66,Male,North,Travel,4,92653.07,47754.56,0,0,0.36,6,4,1,14,Online,0,Medium,B,1
+CLM000975,72,Female,West,Property,5,59793.5,16131.88,2,0,0.689,3,23,1,10,Online,0,Very High,B,0
+CLM000976,30,Male,East,Health,15,11530.45,37772.59,0,0,0.433,5,7,1,4,Branch,1,High,A,1
+CLM000977,64,Male,South,Property,5,18738.79,17749.66,1,0,0.956,5,7,0,11,Agent,1,Very High,C,0
+CLM000978,71,Female,South,Property,5,92973.07,28063.8,1,1,0.609,6,2,0,12,Branch,0,Very High,D,1
+CLM000979,60,Female,South,Life,17,8511.29,26849.36,1,1,0.642,2,16,1,14,Agent,1,Low,C,1
+CLM000980,59,Female,West,Travel,13,96643.89,24787.05,1,0,0.357,2,22,1,14,Branch,1,Low,A,1
+CLM000981,62,Female,West,Life,1,23343.77,11755.31,1,0,0.603,3,28,0,4,Branch,1,High,C,0
+CLM000982,24,Female,East,Health,18,47436.97,17724.45,0,0,0.146,6,25,1,12,Agent,1,Very High,D,1
+CLM000983,36,Male,South,Life,18,94680.18,6225.92,0,1,0.645,1,9,1,14,Agent,1,Medium,C,1
+CLM000984,22,Male,North,Health,8,88290.53,39421.5,1,1,0.379,10,0,1,10,Online,1,Very High,A,1
+CLM000985,57,Male,West,Travel,1,31826.17,24734.59,0,1,0.206,6,21,1,2,Online,0,High,C,1
+CLM000986,34,Male,North,Health,16,16508.09,12987.32,1,0,0.153,10,21,1,8,Branch,0,Low,A,1
+CLM000987,71,Male,North,Health,13,76949.65,23023.26,1,1,0.727,6,12,0,14,Online,1,Medium,D,1
+CLM000988,75,Male,North,Auto,11,6448.73,3688.05,1,0,0.788,6,1,0,13,Agent,0,High,D,0
+CLM000989,22,Male,West,Travel,7,3237.84,41477.52,2,1,0.449,1,1,0,5,Agent,1,High,C,1
+CLM000990,79,Male,North,Travel,7,72508.81,46968.12,1,0,0.39,5,2,1,3,Online,0,Very High,D,1
+CLM000991,31,Female,North,Travel,4,24120.64,21643.06,1,0,0.688,2,10,0,7,Agent,1,Medium,D,0
+CLM000992,20,Male,West,Auto,10,91907.56,40140.07,1,1,0.193,8,9,1,12,Branch,0,Very High,B,1
+CLM000993,23,Female,North,Auto,3,42218.6,8530.66,1,0,0.532,1,7,1,14,Branch,1,Very High,B,1
+CLM000994,27,Male,West,Travel,15,92257.13,35105.76,1,1,0.931,6,20,0,10,Online,1,Low,A,1
+CLM000995,76,Male,East,Property,17,60425.05,18278.51,1,0,0.579,6,28,0,3,Online,1,Very High,B,1
+CLM000996,62,Male,North,Property,4,65303.71,34442.51,2,0,0.476,7,12,0,4,Agent,0,Medium,C,1
+CLM000997,31,Female,North,Life,18,55840.23,41083.47,1,0,0.836,1,2,1,3,Branch,0,Very High,D,0
+CLM000998,64,Female,West,Health,3,43263.63,42404.26,2,0,0.809,1,6,0,4,Branch,1,Medium,A,0
+CLM000999,73,Female,West,Health,16,35264.62,40102.69,0,0,0.865,8,28,1,2,Branch,1,High,C,0
+CLM001000,26,Female,West,Health,13,42753.74,32559.67,1,0,0.272,4,24,0,12,Branch,1,Low,C,1
