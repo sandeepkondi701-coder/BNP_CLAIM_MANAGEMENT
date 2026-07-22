@@ -1,0 +1,23 @@
+columns :
+  claim_id : object
+  customer_age : int
+  claim_type : str
+  annual_premium : int
+  target_processed : int
+  gender : str
+  region : str
+  policy_tenure_years : int
+  claim_amount : float
+  previous_claims : int
+  documents_submitted : int
+  fraud_risk_score : float
+  customer_satisfaction_score : int
+  days_to_report_claim : int
+  hospital_network_flag : int
+  agent_experience_years : int
+  claim_channel : str
+  policy_active_flag : int
+  income_band : str
+  risk_segment : str
+
+target_column : target_processed
